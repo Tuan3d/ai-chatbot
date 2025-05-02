@@ -814,5 +814,805 @@
   {
     "question": "Cách sơ cứu khi bị vết cắt sâu?",
     "answer": "Bạn hỏi cách sơ cứu khi bị vết cắt sâu? Rửa vết cắt dưới nước sạch, ép chặt để cầm máu, băng gạc vô trùng, và đi khám ngay để khâu nếu cần."
+  },
+  {
+    "question": "Đau ngực có phải dấu hiệu của nhồi máu cơ tim?",
+    "answer": "Đau ngực có thể là dấu hiệu nhồi máu cơ tim, đặc biệt nếu đau dữ dội, lan ra cánh tay, kèm khó thở, đổ mồ hôi. Tuy nhiên, cũng có thể do trào ngược dạ dày hoặc căng cơ. Gọi cấp cứu nếu nghi ngờ nhồi máu."
+  },
+  {
+    "question": "Tại sao tôi hay bị đầy hơi sau khi ăn?",
+    "answer": "Đầy hơi sau ăn có thể do nuốt khí khi ăn nhanh, ăn thực phẩm khó tiêu như đậu, hoặc hội chứng ruột kích thích. Ăn chậm, tránh đồ uống có ga, và thử thực phẩm giàu chất xơ."
+  },
+  {
+    "question": "Cách nhận biết dấu hiệu đột quỵ?",
+    "answer": "Dấu hiệu đột quỵ gồm yếu hoặc tê một bên cơ thể, nói khó, nhìn mờ đột ngột, đau đầu dữ dội. Gọi cấp cứu ngay nếu thấy các triệu chứng này."
+  },
+  {
+    "question": "Huyết áp bao nhiêu là bình thường?",
+    "answer": "Huyết áp bình thường thường dưới 120/80 mmHg. Trên 140/90 mmHg là cao, dưới 90/60 mmHg là thấp. Kiểm tra thường xuyên để theo dõi."
+  },
+  {
+    "question": "Tại sao khớp của tôi đau khi trời lạnh?",
+    "answer": "Thời tiết lạnh làm cơ và khớp co lại, gây đau, đặc biệt ở người viêm khớp. Giữ ấm, tập thể dục nhẹ, và chườm ấm có thể giảm đau."
+  },
+  {
+    "question": "Cách giảm căng thẳng hàng ngày?",
+    "answer": "Giảm căng thẳng bằng thiền, hít thở sâu, tập thể dục, hoặc viết nhật ký. Hạn chế caffeine và dành thời gian cho sở thích cá nhân."
+  },
+  {
+    "question": "Triệu chứng của thiếu canxi là gì?",
+    "answer": "Thiếu canxi gây chuột rút, móng tay yếu, răng dễ hỏng, mệt mỏi. Bổ sung sữa, rau xanh, hoặc hỏi bác sĩ về thuốc bổ canxi."
+  },
+  {
+    "question": "Tại sao tôi chóng mặt khi đứng dậy đột ngột?",
+    "answer": "Chóng mặt khi đứng dậy có thể do tụt huyết áp tư thế, mất nước, hoặc thiếu máu. Uống đủ nước, đứng dậy chậm, và đi khám nếu thường xuyên."
+  },
+  {
+    "question": "Cách nhận biết viêm phổi ở trẻ em?",
+    "answer": "Viêm phổi ở trẻ gây sốt, ho, thở nhanh, mệt mỏi. Nếu trẻ thở khó hoặc tím tái, cần đưa đến bệnh viện ngay."
+  },
+  {
+    "question": "Đau bụng dưới bên trái là dấu hiệu gì?",
+    "answer": "Đau bụng dưới bên trái có thể do viêm đại tràng, sỏi thận, hoặc hội chứng ruột kích thích. Nếu đau nặng hoặc kéo dài, nên đi khám."
+  },
+  {
+    "question": "Cách chăm sóc da dầu để tránh mụn?",
+    "answer": "Rửa mặt 2 lần/ngày với sữa rửa mặt dịu nhẹ, dùng kem dưỡng không dầu, tẩy tế bào chết 1-2 lần/tuần để kiểm soát da dầu."
+  },
+  {
+    "question": "Tại sao tôi bị rụng tóc nhiều?",
+    "answer": "Rụng tóc có thể do stress, thiếu sắt, hoặc rối loạn hormone. Ăn đủ chất, giảm căng thẳng, và đi khám nếu rụng quá nhiều."
+  },
+  {
+    "question": "Triệu chứng thiếu vitamin B12 là gì?",
+    "answer": "Thiếu vitamin B12 gây mệt mỏi, tê tay chân, khó tập trung, da nhợt. Bổ sung thịt, trứng, hoặc hỏi bác sĩ về thuốc bổ."
+  },
+  {
+    "question": "Đau bụng trên bên phải là bệnh gì?",
+    "answer": "Đau bụng trên bên phải có thể do sỏi mật, viêm gan, hoặc vấn đề túi mật. Nếu kèm sốt hoặc vàng da, cần đi khám ngay."
+  },
+  {
+    "question": "Cách cải thiện hệ tiêu hóa tự nhiên?",
+    "answer": "Ăn thực phẩm giàu chất xơ như rau củ, uống đủ nước, ăn sữa chua, và tập thể dục nhẹ để hỗ trợ tiêu hóa."
+  },
+  {
+    "question": "Tại sao tôi cảm thấy nóng trong người?",
+    "answer": "Nóng trong người có thể do ăn đồ cay, thiếu nước, hoặc rối loạn nội tiết. Uống nhiều nước, ăn rau xanh, tránh đồ chiên rán."
+  },
+  {
+    "question": "Dấu hiệu của bệnh thận yếu là gì?",
+    "answer": "Bệnh thận yếu gây sưng chân, tiểu đêm, mệt mỏi, nước tiểu bất thường. Kiểm tra sức khỏe định kỳ để phát hiện sớm."
+  },
+  {
+    "question": "Tại sao da tôi ngứa vào ban đêm?",
+    "answer": "Ngứa da ban đêm có thể do dị ứng, khô da, hoặc bệnh chàm. Dùng kem dưỡng ẩm, tránh xà phòng mạnh, và đi khám nếu kéo dài."
+  },
+  {
+    "question": "Cách phòng viêm đường tiết niệu ở phụ nữ?",
+    "answer": "Uống nhiều nước, vệ sinh đúng cách, đi tiểu sau quan hệ, mặc quần áo thoáng để ngăn viêm đường tiết niệu."
+  },
+  {
+    "question": "Đau lưng dưới là dấu hiệu của bệnh gì?",
+    "answer": "Đau lưng dưới có thể do căng cơ, thoát vị đĩa đệm, hoặc sỏi thận. Nếu đau lan xuống chân, nên đi khám."
+  },
+  {
+    "question": "Cách bảo vệ sức khỏe gan?",
+    "answer": "Hạn chế rượu bia, ăn ít chất béo, tập thể dục, và kiểm tra chức năng gan định kỳ để bảo vệ gan."
+  },
+  {
+    "question": "Tại sao tôi đau dạ dày khi đói?",
+    "answer": "Đau dạ dày khi đói có thể do viêm loét dạ dày hoặc trào ngược axit. Ăn bữa nhỏ đều đặn, tránh bỏ bữa."
+  },
+  {
+    "question": "Dấu hiệu của tiểu đường tuýp 1 là gì?",
+    "answer": "Tiểu đường tuýp 1 gây khát nước, tiểu nhiều, sụt cân nhanh, mệt mỏi. Thường gặp ở người trẻ, cần điều trị insulin."
+  },
+  {
+    "question": "Tại sao tay tôi bị tê khi ngủ?",
+    "answer": "Tê tay khi ngủ có thể do tư thế ngủ chèn ép dây thần kinh hoặc hội chứng ống cổ tay. Thay đổi tư thế và đi khám nếu kéo dài."
+  },
+  {
+    "question": "Cách phòng ngừa ung thư vú?",
+    "answer": "Tự kiểm tra vú hàng tháng, chụp X-quang tuyến vú định kỳ, ăn uống lành mạnh, và hạn chế rượu bia để giảm nguy cơ ung thư vú."
+  },
+  {
+    "question": "Triệu chứng của suy tim là gì?",
+    "answer": "Suy tim gây khó thở, mệt mỏi, sưng chân, và tim đập nhanh. Nếu có triệu chứng, cần đi khám tim mạch ngay."
+  },
+  {
+    "question": "Tại sao tôi hay bị ợ chua?",
+    "answer": "Ợ chua thường do trào ngược dạ dày, ăn quá no, hoặc đồ cay. Tránh nằm ngay sau ăn, ăn bữa nhỏ, và hỏi bác sĩ nếu kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh ung thư da?",
+    "answer": "Ung thư da gây nốt ruồi đổi màu, kích thước, hoặc vết loét không lành. Kiểm tra da thường xuyên và đi khám nếu bất thường."
+  },
+  {
+    "question": "Tại sao tôi bị đau đầu khi làm việc lâu?",
+    "answer": "Đau đầu khi làm việc lâu có thể do căng thẳng, nhìn màn hình quá lâu, hoặc thiếu nước. Nghỉ ngơi, uống nước, và điều chỉnh tư thế."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh loét dạ dày?",
+    "answer": "Ăn uống đúng giờ, tránh đồ cay và rượu bia, giảm stress, và kiểm tra vi khuẩn HP để phòng loét dạ dày."
+  },
+  {
+    "question": "Triệu chứng của bệnh hen suyễn là gì?",
+    "answer": "Hen suyễn gây khó thở, khò khè, tức ngực, và ho, đặc biệt về đêm. Dùng thuốc xịt và tránh tác nhân kích thích."
+  },
+  {
+    "question": "Tại sao tôi bị sưng chân vào cuối ngày?",
+    "answer": "Sưng chân có thể do đứng lâu, suy tĩnh mạch, hoặc bệnh tim. Nâng chân khi nghỉ, mặc vớ y khoa, và đi khám nếu kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe tim mạch?",
+    "answer": "Ăn ít muối, tập thể dục đều đặn, không hút thuốc, và kiểm tra huyết áp, cholesterol định kỳ để bảo vệ tim."
+  },
+  {
+    "question": "Tại sao tôi bị khô miệng thường xuyên?",
+    "answer": "Khô miệng có thể do mất nước, thuốc, hoặc bệnh như tiểu đường. Uống đủ nước, nhai kẹo không đường, và đi khám nếu kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh tuyến giáp?",
+    "answer": "Bệnh tuyến giáp gây mệt mỏi, thay đổi cân nặng, bướu cổ, hoặc tim đập nhanh. Xét nghiệm máu giúp chẩn đoán chính xác."
+  },
+  {
+    "question": "Tại sao tôi hay bị đau bụng khi căng thẳng?",
+    "answer": "Căng thẳng kích thích hội chứng ruột kích thích, gây đau bụng. Thư giãn, tập yoga, và ăn uống lành mạnh để giảm triệu chứng."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh ung thư phổi?",
+    "answer": "Không hút thuốc, tránh khói bụi, ăn thực phẩm giàu chất xơ, và kiểm tra sức khỏe phổi định kỳ để giảm nguy cơ ung thư phổi."
+  },
+  {
+    "question": "Triệu chứng của bệnh gan nhiễm mỡ?",
+    "answer": "Gan nhiễm mỡ thường không có triệu chứng rõ, nhưng có thể gây mệt mỏi, đau nhẹ bên phải. Giảm cân và ăn ít chất béo để cải thiện."
+  },
+  {
+    "question": "Tại sao tôi bị ngứa mắt thường xuyên?",
+    "answer": "Ngứa mắt có thể do dị ứng, khô mắt, hoặc viêm kết mạc. Dùng nước mắt nhân tạo, tránh dụi mắt, và đi khám nếu nặng."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe xương khớp?",
+    "answer": "Bổ sung canxi, vitamin D, tập thể dục như đi bộ, và tránh nâng vật nặng sai tư thế để bảo vệ xương khớp."
+  },
+  {
+    "question": "Tại sao tôi bị đau cổ khi ngủ sai tư thế?",
+    "answer": "Ngủ sai tư thế gây căng cơ cổ, dẫn đến đau. Dùng gối phù hợp, giữ tư thế ngủ thẳng, và tập giãn cơ để giảm đau."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh cúm theo mùa?",
+    "answer": "Tiêm vắc-xin cúm hàng năm, rửa tay thường xuyên, tránh tiếp xúc người bệnh, và bổ sung vitamin C để phòng cúm."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm túi mật?",
+    "answer": "Viêm túi mật gây đau bụng trên bên phải, sốt, buồn nôn. Cần đi khám ngay để điều trị, có thể cần phẫu thuật."
+  },
+  {
+    "question": "Tại sao tôi bị khó tiêu sau bữa ăn lớn?",
+    "answer": "Khó tiêu sau bữa ăn lớn do dạ dày làm việc quá tải. Ăn bữa nhỏ, tránh đồ béo, và đi bộ nhẹ để hỗ trợ tiêu hóa."
+  },
+  {
+    "question": "Cách nhận biết bệnh ung thư đại tràng?",
+    "answer": "Ung thư đại tràng gây thay đổi thói quen đi tiêu, máu trong phân, đau bụng. Nội soi đại tràng giúp phát hiện sớm."
+  },
+  {
+    "question": "Tại sao tôi bị đau vai khi làm việc văn phòng?",
+    "answer": "Đau vai do ngồi sai tư thế, căng cơ, hoặc hội chứng vai gáy. Điều chỉnh ghế, tập giãn cơ, và nghỉ ngơi thường xuyên."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh thiếu máu ở phụ nữ?",
+    "answer": "Bổ sung thực phẩm giàu sắt như thịt đỏ, rau xanh, ăn kèm vitamin C, và kiểm tra máu định kỳ để phòng thiếu máu."
+  },
+  {
+    "question": "Triệu chứng của bệnh cao huyết áp?",
+    "answer": "Cao huyết áp thường không có triệu chứng, nhưng có thể gây đau đầu, chóng mặt, chảy máu cam. Kiểm tra huyết áp thường xuyên."
+  },
+  {
+    "question": "Tại sao tôi bị đau đầu sau khi uống cà phê?",
+    "answer": "Đau đầu sau uống cà phê có thể do caffeine gây co mạch máu hoặc mất nước. Uống đủ nước và giảm lượng cà phê."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe tinh thần hàng ngày?",
+    "answer": "Ngủ đủ giấc, tập thể dục, trò chuyện với người thân, và thực hành chánh niệm để duy trì sức khỏe tinh thần."
+  },
+  {
+    "question": "Tại sao tôi bị đau hàm khi nhai?",
+    "answer": "Đau hàm khi nhai có thể do rối loạn khớp thái dương hàm, nghiến răng, hoặc viêm nướu. Nghỉ ngơi hàm, chườm ấm, và đi khám nha sĩ nếu đau kéo dài."
+  },
+  {
+    "question": "Cách nhận biết hội chứng tiền đình?",
+    "answer": "Hội chứng tiền đình gây chóng mặt, mất thăng bằng, buồn nôn, và ù tai. Tránh thay đổi tư thế đột ngột và đi khám thần kinh nếu triệu chứng lặp lại."
+  },
+  {
+    "question": "Tại sao tôi bị nổi mề đay khi trời nóng?",
+    "answer": "Nổi mề đay khi trời nóng có thể do dị ứng nhiệt, mồ hôi kích ứng da. Tắm nước mát, mặc quần áo thoáng, và dùng thuốc kháng histamine nếu cần."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm tai giữa ở trẻ em?",
+    "answer": "Giữ tai trẻ khô, cho trẻ bú đúng tư thế, tiêm vắc-xin phế cầu, và tránh khói thuốc để giảm nguy cơ viêm tai giữa."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tuyến nước bọt là gì?",
+    "answer": "Viêm tuyến nước bọt gây sưng đau dưới cằm hoặc gần tai, khô miệng, và sốt. Uống nhiều nước, massage nhẹ, và đi khám nếu nặng."
+  },
+  {
+    "question": "Tại sao tôi bị đau mắt khi nhìn ánh sáng mạnh?",
+    "answer": "Đau mắt khi nhìn ánh sáng mạnh có thể do viêm giác mạc, khô mắt, hoặc migraine. Đeo kính râm, nghỉ mắt, và đi khám mắt nếu kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc da bị nám hiệu quả?",
+    "answer": "Dùng kem chống nắng SPF 30+, dưỡng ẩm, sử dụng sản phẩm chứa vitamin C, và tham khảo bác sĩ da liễu về điều trị laser cho nám."
+  },
+  {
+    "question": "Tại sao tôi bị đau cổ họng khi nuốt?",
+    "answer": "Đau cổ họng khi nuốt có thể do viêm amidan, dị vật, hoặc trào ngược dạ dày. Súc miệng nước muối, uống nước ấm, và đi khám nếu đau lâu."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm tuyến giáp?",
+    "answer": "Viêm tuyến giáp gây đau cổ, khó nuốt, mệt mỏi, và sốt nhẹ. Xét nghiệm máu và siêu âm tuyến giáp giúp chẩn đoán chính xác."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng sau khi uống sữa?",
+    "answer": "Đau bụng sau khi uống sữa có thể do không dung nạp lactose. Thử sữa không lactose hoặc hỏi bác sĩ về enzyme hỗ trợ tiêu hóa."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm niệu đạo?",
+    "answer": "Uống nhiều nước, vệ sinh sạch sẽ, tránh sử dụng xà phòng mạnh ở vùng kín, và đi tiểu thường xuyên để ngăn viêm niệu đạo."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm cơ tim là gì?",
+    "answer": "Viêm cơ tim gây đau ngực, khó thở, mệt mỏi, và nhịp tim bất thường. Cần đi khám tim mạch ngay nếu có triệu chứng."
+  },
+  {
+    "question": "Tại sao tôi bị ngứa hậu môn?",
+    "answer": "Ngứa hậu môn có thể do vệ sinh kém, trĩ, hoặc nhiễm giun. Rửa sạch bằng nước ấm, tránh giấy vệ sinh thô, và đi khám nếu kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị viêm mũi dị ứng?",
+    "answer": "Tránh bụi, phấn hoa, dùng máy lọc không khí, rửa mũi bằng nước muối sinh lý, và dùng thuốc xịt mũi theo chỉ định bác sĩ."
+  },
+  {
+    "question": "Tại sao tôi bị đau khuỷu tay khi nâng đồ nặng?",
+    "answer": "Đau khuỷu tay có thể do viêm gân, hội chứng tennis elbow. Nghỉ ngơi, chườm lạnh, và tập phục hồi chức năng nếu đau kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm màng ngoài tim?",
+    "answer": "Viêm màng ngoài tim gây đau ngực tăng khi nằm, sốt, và khó thở. Siêu âm tim giúp chẩn đoán, cần đi khám ngay."
+  },
+  {
+    "question": "Tại sao tôi bị sưng lợi quanh răng?",
+    "answer": "Sưng lợi có thể do viêm lợi, mảng bám răng, hoặc áp xe. Súc miệng nước muối, đánh răng đúng cách, và đi nha sĩ kiểm tra."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm khớp ở người trẻ?",
+    "answer": "Duy trì cân nặng hợp lý, tập thể dục tăng cường cơ, bổ sung omega-3, và tránh chấn thương để phòng viêm khớp."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tiểu phế quản ở trẻ?",
+    "answer": "Viêm tiểu phế quản gây ho, khò khè, thở nhanh, và sốt nhẹ. Đưa trẻ đi khám nếu thở khó hoặc bỏ bú."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng quanh rốn?",
+    "answer": "Đau bụng quanh rốn có thể do rối loạn tiêu hóa, tắc ruột, hoặc viêm ruột. Nếu đau kèm sốt hoặc nôn, cần đi khám ngay."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh vẩy nến?",
+    "answer": "Dùng kem dưỡng ẩm, tránh stress, tắm nước ấm, và sử dụng thuốc bôi theo chỉ định bác sĩ để kiểm soát vẩy nến."
+  },
+  {
+    "question": "Tại sao tôi bị ù tai khi đi máy bay?",
+    "answer": "Ù tai khi đi máy bay do thay đổi áp suất. Nhai kẹo gum, ngáp, hoặc thực hiện động tác Valsalva để giảm áp lực tai."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm tụy cấp?",
+    "answer": "Viêm tụy cấp gây đau bụng trên dữ dội, lan ra sau lưng, buồn nôn, và sốt. Cần nhập viện ngay để điều trị."
+  },
+  {
+    "question": "Tại sao tôi bị đau vai trái khi hít thở sâu?",
+    "answer": "Đau vai trái khi hít thở sâu có thể do viêm phổi, tràn khí màng phổi, hoặc vấn đề cơ. Đi khám nếu đau kèm sốt hoặc khó thở."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm lợi ở người lớn?",
+    "answer": "Đánh răng 2 lần/ngày, dùng chỉ nha khoa, súc miệng nước muối, và khám nha sĩ 6 tháng/lần để ngăn viêm lợi."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm bàng quang kẽ là gì?",
+    "answer": "Viêm bàng quang kẽ gây đau vùng chậu, tiểu gấp, tiểu đau, và khó chịu kéo dài. Cần đi khám tiết niệu để chẩn đoán."
+  },
+  {
+    "question": "Tại sao tôi bị đau ngón chân cái khi đi bộ?",
+    "answer": "Đau ngón chân cái có thể do viêm khớp, bunion, hoặc móng chân mọc ngược. Mang giày thoải mái và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc người bị bệnh lupus ban đỏ?",
+    "answer": "Tránh ánh nắng, dùng kem chống nắng, nghỉ ngơi đầy đủ, và tuân thủ thuốc điều trị theo chỉ định bác sĩ để kiểm soát lupus."
+  },
+  {
+    "question": "Tại sao tôi bị đau lưỡi khi ăn đồ chua?",
+    "answer": "Đau lưỡi khi ăn đồ chua có thể do viêm lưỡi, loét miệng, hoặc thiếu vitamin B. Súc miệng nước muối và đi khám nếu kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm nội mạc tử cung?",
+    "answer": "Viêm nội mạc tử cung gây đau bụng dưới, sốt, chảy máu bất thường, và tiết dịch hôi. Cần đi khám phụ khoa ngay."
+  },
+  {
+    "question": "Tại sao tôi bị đau đầu gối khi leo cầu thang?",
+    "answer": "Đau đầu gối khi leo cầu thang có thể do viêm khớp, tổn thương dây chằng, hoặc yếu cơ. Nghỉ ngơi, tập tăng cường cơ, và đi khám nếu nặng."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm phế quản mãn tính?",
+    "answer": "Bỏ thuốc lá, tránh khói bụi, đeo khẩu trang ở nơi ô nhiễm, và tiêm vắc-xin cúm để phòng viêm phế quản mãn tính."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm da tiết bã là gì?",
+    "answer": "Viêm da tiết bã gây da đỏ, bong tróc, ngứa ở da đầu, mặt, hoặc ngực. Dùng shampoo đặc trị và hỏi bác sĩ da liễu."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng khi chạy bộ?",
+    "answer": "Đau bụng khi chạy bộ có thể do thiếu khởi động, ăn sát giờ chạy, hoặc co bóp cơ hoành. Khởi động kỹ và tránh ăn trước khi chạy."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh Crohn?",
+    "answer": "Ăn thực phẩm dễ tiêu, tránh đồ cay, ghi nhật ký ăn uống, và dùng thuốc chống viêm theo chỉ định bác sĩ để kiểm soát bệnh Crohn."
+  },
+  {
+    "question": "Tại sao tôi bị đau xương cụt khi ngồi lâu?",
+    "answer": "Đau xương cụt có thể do tư thế ngồi sai, chấn thương, hoặc viêm. Dùng đệm ngồi, điều chỉnh tư thế, và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm màng phổi?",
+    "answer": "Viêm màng phổi gây đau ngực khi hít thở, sốt, và ho khan. Chụp X-quang ngực giúp chẩn đoán, cần đi khám ngay."
+  },
+  {
+    "question": "Tại sao tôi bị ngứa da đầu dù gội đầu thường xuyên?",
+    "answer": "Ngứa da đầu có thể do gàu, viêm da tiết bã, hoặc dị ứng dầu gội. Dùng shampoo dịu nhẹ, tránh gãi, và đi khám da liễu nếu kéo dài."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm gan D?",
+    "answer": "Tiêm vắc-xin viêm gan B (vì viêm gan D chỉ xảy ra ở người nhiễm HBV), tránh dùng chung kim tiêm, và kiểm tra sức khỏe định kỳ."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm thực quản là gì?",
+    "answer": "Viêm thực quản gây đau khi nuốt, ợ nóng, và cảm giác vướng ở cổ họng. Tránh đồ chua, cay, và đi khám nếu triệu chứng kéo dài."
+  },
+  {
+    "question": "Tại sao tôi bị đau cổ chân khi mang giày cao gót?",
+    "answer": "Đau cổ chân do giày cao gót gây áp lực lên khớp, căng gân. Chọn giày có gót thấp, tập giãn cơ, và nghỉ ngơi nếu đau."
+  },
+  {
+    "question": "Cách chăm sóc người bị bệnh động kinh?",
+    "answer": "Đảm bảo an toàn khi lên cơn, dùng thuốc theo chỉ định, tránh ánh sáng nhấp nháy, và đưa đi khám thần kinh định kỳ."
+  },
+  {
+    "question": "Tại sao tôi bị đau môi khi trời lạnh?",
+    "answer": "Đau môi khi trời lạnh do khô nứt, thiếu độ ẩm. Dùng son dưỡng, uống đủ nước, và tránh liếm môi để giảm khô."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm mào tinh hoàn?",
+    "answer": "Viêm mào tinh hoàn gây sưng đau bìu, sốt, và tiểu đau. Cần đi khám tiết niệu ngay để điều trị kháng sinh kịp thời."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng dưới khi nâng vật nặng?",
+    "answer": "Đau bụng dưới khi nâng vật nặng có thể do thoát vị bẹn hoặc căng cơ. Nghỉ ngơi, tránh nâng nặng, và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm da cơ địa ở trẻ em?",
+    "answer": "Dùng kem dưỡng ẩm, tắm bằng nước ấm, mặc quần áo cotton, và tránh tác nhân dị ứng như bụi để ngăn viêm da cơ địa."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tuyến mồ hôi là gì?",
+    "answer": "Viêm tuyến mồ hôi gây sưng đau ở nách, háng, kèm mủ hoặc sốt. Giữ vệ sinh, mặc quần áo thoáng, và đi khám da liễu."
+  },
+  {
+    "question": "Tại sao tôi bị đau ngực khi ho mạnh?",
+    "answer": "Đau ngực khi ho mạnh có thể do viêm phổi, viêm cơ ngực, hoặc tràn dịch màng phổi. Đi khám nếu đau kèm sốt hoặc khó thở."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh tự miễn?",
+    "answer": "Ăn uống lành mạnh, giảm stress, nghỉ ngơi đầy đủ, và tuân thủ thuốc điều trị để kiểm soát bệnh tự miễn."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng trên sau khi uống rượu?",
+    "answer": "Đau bụng trên sau uống rượu có thể do viêm dạ dày, viêm tụy, hoặc tổn thương gan. Hạn chế rượu và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Tại sao tôi bị đau thắt lưng khi đứng lâu?",
+    "answer": "Đau thắt lưng khi đứng lâu có thể do tư thế sai, yếu cơ lưng, hoặc viêm khớp cột sống. Điều chỉnh tư thế, tập tăng cường cơ, và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm thanh quản?",
+    "answer": "Viêm thanh quản gây khàn tiếng, mất tiếng, đau họng, và ho khan. Nghỉ ngơi giọng nói, uống nước ấm, và đi khám nếu triệu chứng kéo dài."
+  },
+  {
+    "question": "Tại sao tôi bị ngứa tay khi tiếp xúc với nước lạnh?",
+    "answer": "Ngứa tay khi tiếp xúc nước lạnh có thể do dị ứng lạnh hoặc da khô. Giữ tay ấm, dùng kem dưỡng ẩm, và đi khám da liễu nếu ngứa nhiều."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm kết mạc ở trẻ sơ sinh?",
+    "answer": "Giữ vệ sinh mắt trẻ, rửa tay trước khi chăm sóc, và dùng thuốc nhỏ mắt theo chỉ định bác sĩ để ngăn viêm kết mạc ở trẻ sơ sinh."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tủy răng là gì?",
+    "answer": "Viêm tủy răng gây đau nhức dữ dội, nhạy cảm với nóng lạnh, và sưng nướu. Cần đi nha sĩ để điều trị tủy ngay."
+  },
+  {
+    "question": "Tại sao tôi bị đau mũi khi thời tiết khô?",
+    "answer": "Đau mũi khi thời tiết khô có thể do niêm mạc mũi khô, nứt. Dùng máy tạo ẩm, nhỏ nước muối sinh lý, và uống đủ nước."
+  },
+  {
+    "question": "Cách chăm sóc da bị cháy nắng?",
+    "answer": "Làm mát da bằng nước lạnh, bôi gel lô hội, dùng kem dưỡng ẩm, và tránh nắng thêm để phục hồi da cháy nắng."
+  },
+  {
+    "question": "Tại sao tôi bị đau ngực khi căng thẳng?",
+    "answer": "Đau ngực khi căng thẳng có thể do co cơ hoặc rối loạn lo âu. Thư giãn, hít thở sâu, và đi khám tim nếu đau kèm khó thở."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm dây thần kinh ngoại biên?",
+    "answer": "Viêm dây thần kinh ngoại biên gây tê, châm chích, yếu cơ ở tay chân. Xét nghiệm thần kinh giúp chẩn đoán, cần đi khám sớm."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng dưới sau quan hệ?",
+    "answer": "Đau bụng dưới sau quan hệ có thể do co bóp tử cung, viêm vùng chậu, hoặc u nang. Đi khám phụ khoa nếu đau kéo dài."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm ống dẫn trứng?",
+    "answer": "Quan hệ an toàn, vệ sinh vùng kín, kiểm tra phụ khoa định kỳ, và điều trị sớm nhiễm trùng để ngăn viêm ống dẫn trứng."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm cơ hoành là gì?",
+    "answer": "Viêm cơ hoành gây đau ngực, khó thở, và đau khi hít sâu. Cần chụp X-quang và đi khám để điều trị kịp thời."
+  },
+  {
+    "question": "Tại sao tôi bị đau vai phải khi nâng tay?",
+    "answer": "Đau vai phải khi nâng tay có thể do viêm gân cơ quay, chấn thương, hoặc đông cứng vai. Nghỉ ngơi, tập vật lý trị liệu, và đi khám nếu nặng."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh đa nang buồng trứng?",
+    "answer": "Duy trì cân nặng hợp lý, ăn ít đường, tập thể dục, và dùng thuốc điều hòa kinh nguyệt theo chỉ định bác sĩ."
+  },
+  {
+    "question": "Tại sao tôi bị đau răng khi uống nước lạnh?",
+    "answer": "Đau răng khi uống nước lạnh có thể do ê buốt răng, sâu răng, hoặc nứt men răng. Dùng kem đánh răng chống ê buốt và đi nha sĩ kiểm tra."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm dạ dày do rượu?",
+    "answer": "Viêm dạ dày do rượu gây đau bụng trên, buồn nôn, ợ chua, và đầy hơi. Hạn chế rượu, ăn nhẹ, và đi khám tiêu hóa."
+  },
+  {
+    "question": "Tại sao tôi bị ngứa chân khi mang giày kín?",
+    "answer": "Ngứa chân khi mang giày kín có thể do nấm da, mồ hôi tích tụ. Giữ chân khô, dùng bột chống nấm, và đi khám da liễu nếu ngứa lâu."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm quanh khớp vai?",
+    "answer": "Tập các bài tập tăng cường vai, tránh nâng vật nặng sai tư thế, và giữ tư thế đúng để ngăn viêm quanh khớp vai."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tuyến mang tai là gì?",
+    "answer": "Viêm tuyến mang tai gây sưng đau gần tai, sốt, và khó nhai. Uống nhiều nước, chườm ấm, và đi khám nếu triệu chứng nặng."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng trên khi ăn đồ béo?",
+    "answer": "Đau bụng trên khi ăn đồ béo có thể do sỏi mật hoặc viêm túi mật. Hạn chế chất béo và đi khám tiêu hóa nếu đau kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc người bị bệnh viêm loét đại tràng?",
+    "answer": "Ăn thực phẩm ít chất xơ, uống đủ nước, tránh stress, và dùng thuốc chống viêm theo chỉ định bác sĩ để kiểm soát viêm loét đại tràng."
+  },
+  {
+    "question": "Tại sao tôi bị đau mắt cá chân khi đi bộ lâu?",
+    "answer": "Đau mắt cá chân có thể do bong gân, viêm gân, hoặc giày không phù hợp. Nghỉ ngơi, chườm lạnh, và mang giày hỗ trợ."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm gan tự miễn?",
+    "answer": "Viêm gan tự miễn gây vàng da, mệt mỏi, đau bụng, và tăng men gan. Xét nghiệm máu và sinh thiết gan giúp chẩn đoán."
+  },
+  {
+    "question": "Tại sao tôi bị đau lưỡi sau khi ăn đồ nóng?",
+    "answer": "Đau lưỡi sau khi ăn đồ nóng có thể do bỏng nhiệt hoặc viêm. Súc miệng nước mát, tránh đồ cay, và đi khám nếu lâu lành."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm vùng chậu ở phụ nữ?",
+    "answer": "Quan hệ an toàn, vệ sinh vùng kín, điều trị sớm nhiễm trùng, và khám phụ khoa định kỳ để ngăn viêm vùng chậu."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm dây chằng là gì?",
+    "answer": "Viêm dây chằng gây đau, sưng, và hạn chế vận động ở khớp. Nghỉ ngơi, chườm lạnh, và tập phục hồi chức năng giúp cải thiện."
+  },
+  {
+    "question": "Tại sao tôi bị đau ngực trái khi tập thể dục?",
+    "answer": "Đau ngực trái khi tập thể dục có thể do thiếu máu cơ tim hoặc căng cơ. Dừng tập, nghỉ ngơi, và đi khám tim nếu đau lặp lại."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh viêm khớp vảy nến?",
+    "answer": "Dùng thuốc chống viêm, tập thể dục nhẹ, dưỡng ẩm da, và tránh stress để kiểm soát viêm khớp vảy nến."
+  },
+  {
+    "question": "Tại sao tôi bị đau đầu khi thiếu ngủ?",
+    "answer": "Thiếu ngủ gây đau đầu do căng thẳng thần kinh và thiếu oxy não. Ngủ đủ 7-8 tiếng, thư giãn, và uống đủ nước."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm bao gân cổ tay?",
+    "answer": "Viêm bao gân cổ tay gây đau, sưng, và khó cử động cổ tay. Nghỉ ngơi, đeo nẹp, và đi khám nếu triệu chứng kéo dài."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng dưới bên phải khi vận động?",
+    "answer": "Đau bụng dưới bên phải khi vận động có thể do căng cơ, thoát vị, hoặc vấn đề ruột thừa. Đi khám nếu đau nặng hoặc sốt."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm khớp gối ở người già?",
+    "answer": "Giữ cân nặng hợp lý, tập các bài tập tăng cường cơ đùi, bổ sung glucosamine, và tránh ngồi xổm lâu để bảo vệ khớp gối."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tuyến giáp sau sinh là gì?",
+    "answer": "Viêm tuyến giáp sau sinh gây mệt mỏi, tim đập nhanh, hoặc trầm cảm. Xét nghiệm hormone tuyến giáp giúp chẩn đoán."
+  },
+  {
+    "question": "Tại sao tôi bị đau vai khi ngủ nghiêng?",
+    "answer": "Đau vai khi ngủ nghiêng có thể do chèn ép dây thần kinh hoặc viêm khớp vai. Dùng gối hỗ trợ, ngủ thẳng, và đi khám nếu đau lâu."
+  },
+  {
+    "question": "Cách chăm sóc người bị bệnh viêm đa cơ?",
+    "answer": "Dùng thuốc chống viêm, tập vật lý trị liệu, nghỉ ngơi đầy đủ, và ăn uống đủ chất để hỗ trợ điều trị viêm đa cơ."
+  },
+  {
+    "question": "Tại sao tôi bị đau môi khi căng thẳng?",
+    "answer": "Đau môi khi căng thẳng có thể do cắn môi, herpes môi, hoặc khô nứt. Dùng son dưỡng, giảm stress, và đi khám nếu có mụn nước."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm động mạch thái dương?",
+    "answer": "Viêm động mạch thái dương gây đau đầu dữ dội, đau vùng thái dương, và mờ mắt. Cần đi khám ngay để điều trị kịp thời."
+  },
+  {
+    "question": "Tại sao tôi bị đau cổ tay khi đánh máy lâu?",
+    "answer": "Đau cổ tay khi đánh máy lâu có thể do viêm gân hoặc hội chứng ống cổ tay. Nghỉ ngơi, dùng nẹp, và điều chỉnh tư thế làm việc."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm da tiếp xúc?",
+    "answer": "Tránh chất gây dị ứng, đeo găng tay khi tiếp xúc hóa chất, dùng kem dưỡng ẩm, và rửa sạch da sau khi tiếp xúc để ngăn viêm da."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm khớp phản ứng là gì?",
+    "answer": "Viêm khớp phản ứng gây đau khớp, sưng, đỏ, và tiểu đau sau nhiễm trùng. Cần đi khám để điều trị kháng sinh và chống viêm."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng khi ăn thực phẩm lên men?",
+    "answer": "Đau bụng khi ăn thực phẩm lên men có thể do nhạy cảm với histamine hoặc rối loạn tiêu hóa. Hạn chế thực phẩm này và đi khám tiêu hóa."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh viêm màng bồ đào?",
+    "answer": "Dùng thuốc nhỏ mắt chống viêm, đeo kính bảo vệ, nghỉ ngơi mắt, và tái khám mắt định kỳ để kiểm soát viêm màng bồ đào."
+  },
+  {
+    "question": "Tại sao tôi bị đau ngón tay khi gập lại?",
+    "answer": "Đau ngón tay khi gập có thể do viêm bao gân, khớp ngón tay, hoặc chấn thương. Nghỉ ngơi, chườm lạnh, và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm xoang hàm?",
+    "answer": "Viêm xoang hàm gây đau má, nghẹt mũi, chảy dịch mũi, và đau đầu. Rửa mũi nước muối, xông hơi, và đi khám nếu nặng."
+  },
+  {
+    "question": "Tại sao tôi bị đau vùng chậu khi ngồi lâu?",
+    "answer": "Đau vùng chậu khi ngồi lâu có thể do áp lực lên dây thần kinh hoặc viêm khớp háng. Đổi tư thế, dùng đệm, và đi khám nếu đau lâu."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm tuyến vú khi cho con bú?",
+    "answer": "Cho bé bú đúng tư thế, vệ sinh núm vú, mặc áo thoáng, và điều trị sớm tắc tia sữa để ngăn viêm tuyến vú."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tắc tĩnh mạch là gì?",
+    "answer": "Viêm tắc tĩnh mạch gây đau, đỏ, sưng dọc tĩnh mạch, và sốt nhẹ. Nâng chân, chườm ấm, và đi khám để điều trị."
+  },
+  {
+    "question": "Tại sao tôi bị đau tai khi nhai kẹo gum?",
+    "answer": "Đau tai khi nhai kẹo gum có thể do rối loạn khớp thái dương hàm hoặc viêm tai. Nghỉ nhai, chườm ấm, và đi khám tai mũi họng."
+  },
+  {
+    "question": "Cách chăm sóc người bị bệnh viêm cột sống dính khớp?",
+    "answer": "Tập vật lý trị liệu, duy trì tư thế thẳng, dùng thuốc chống viêm, và kiểm tra định kỳ để kiểm soát viêm cột sống dính khớp."
+  },
+  {
+    "question": "Tại sao tôi bị đau đầu khi ăn đồ lạnh?",
+    "answer": "Đau đầu khi ăn đồ lạnh có thể do kích thích dây thần kinh (brain freeze). Ăn chậm, uống nước ấm, và tránh đồ quá lạnh."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng dưới khi ho mạnh?",
+    "answer": "Đau bụng dưới khi ho mạnh có thể do căng cơ bụng, thoát vị bẹn, hoặc viêm vùng chậu. Nghỉ ngơi, tránh ho mạnh, và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm túi thừa đại tràng?",
+    "answer": "Viêm túi thừa đại tràng gây đau bụng dưới trái, sốt, và thay đổi thói quen đi tiêu. Đi khám tiêu hóa để chẩn đoán và điều trị kịp thời."
+  },
+  {
+    "question": "Tại sao tôi bị ngứa vùng kín sau khi cạo lông?",
+    "answer": "Ngứa vùng kín sau cạo lông có thể do kích ứng da hoặc viêm nang lông. Rửa sạch, dùng kem dưỡng không mùi, và tránh cạo sát nếu ngứa lâu."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm họng hạt ở người lớn?",
+    "answer": "Giữ họng ẩm, tránh khói bụi, súc miệng nước muối, và khám tai mũi họng định kỳ để ngăn viêm họng hạt."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tắc tuyến lệ là gì?",
+    "answer": "Viêm tắc tuyến lệ gây sưng đỏ ở góc mắt, chảy nước mắt, và đau. Massage nhẹ, chườm ấm, và đi khám mắt nếu triệu chứng nặng."
+  },
+  {
+    "question": "Tại sao tôi bị đau hông khi ngủ nghiêng lâu?",
+    "answer": "Đau hông khi ngủ nghiêng lâu có thể do áp lực lên khớp háng hoặc viêm bao hoạt dịch. Dùng đệm mềm, đổi tư thế, và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc da bị viêm nang lông?",
+    "answer": "Rửa da bằng xà phòng dịu nhẹ, tránh cạo lông, bôi kem kháng sinh, và đi khám da liễu nếu viêm nang lông lan rộng."
+  },
+  {
+    "question": "Tại sao tôi bị đau ngực phải khi nằm nghiêng?",
+    "answer": "Đau ngực phải khi nằm nghiêng có thể do viêm cơ, trào ngược dạ dày, hoặc vấn đề phổi. Đi khám nếu đau kèm khó thở hoặc sốt."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm dây thần kinh thị giác?",
+    "answer": "Viêm dây thần kinh thị giác gây giảm thị lực, đau khi chuyển động mắt, và nhìn màu mờ. Cần đi khám mắt ngay để điều trị."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng trên khi căng thẳng?",
+    "answer": "Đau bụng trên khi căng thẳng có thể do co bóp dạ dày hoặc hội chứng ruột kích thích. Thư giãn, ăn nhẹ, và đi khám nếu đau thường xuyên."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm cổ tử cung?",
+    "answer": "Quan hệ an toàn, vệ sinh vùng kín đúng cách, tiêm vắc-xin HPV, và khám phụ khoa định kỳ để ngăn viêm cổ tử cung."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm phổi kẽ là gì?",
+    "answer": "Viêm phổi kẽ gây khó thở, ho khan, mệt mỏi, và đau ngực. Chụp CT phổi giúp chẩn đoán, cần đi khám phổi sớm."
+  },
+  {
+    "question": "Tại sao tôi bị ngứa nách dù vệ sinh sạch sẽ?",
+    "answer": "Ngứa nách có thể do viêm da, dị ứng lăn khử mùi, hoặc nấm. Dùng sản phẩm không mùi, mặc áo thoáng, và đi khám da liễu nếu kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh viêm gan mãn tính?",
+    "answer": "Hạn chế rượu, ăn ít chất béo, dùng thuốc theo chỉ định, và kiểm tra chức năng gan định kỳ để quản lý viêm gan mãn tính."
+  },
+  {
+    "question": "Tại sao tôi bị đau răng khi nhai đồ cứng?",
+    "answer": "Đau răng khi nhai đồ cứng có thể do sâu răng, nứt răng, hoặc viêm nướu. Tránh đồ cứng, đi nha sĩ kiểm tra sớm."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm khớp cùng chậu?",
+    "answer": "Viêm khớp cùng chậu gây đau lưng dưới, đau hông, và cứng khớp vào sáng sớm. Xét nghiệm hình ảnh giúp chẩn đoán, cần đi khám."
+  },
+  {
+    "question": "Tại sao tôi bị đau tai khi bơi lội?",
+    "answer": "Đau tai khi bơi lội có thể do nước đọng gây viêm tai ngoài. Giữ tai khô, dùng nút tai khi bơi, và đi khám nếu đau lâu."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm quanh răng?",
+    "answer": "Đánh răng đúng cách, dùng chỉ nha khoa, súc miệng nước muối, và khám nha sĩ 6 tháng/lần để ngăn viêm quanh răng."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm màng bụng là gì?",
+    "answer": "Viêm màng bụng gây đau bụng dữ dội, sốt, buồn nôn, và bụng cứng. Cần nhập viện ngay để điều trị khẩn cấp."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng dưới khi căng cơ bụng?",
+    "answer": "Đau bụng dưới khi căng cơ bụng có thể do tập luyện quá sức hoặc chấn thương cơ. Nghỉ ngơi, chườm lạnh, và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc người bị bệnh viêm đa khớp?",
+    "answer": "Dùng thuốc chống viêm, tập vật lý trị liệu, giữ ấm khớp, và ăn thực phẩm giàu omega-3 để kiểm soát viêm đa khớp."
+  },
+  {
+    "question": "Tại sao tôi bị đau mũi khi hít không khí lạnh?",
+    "answer": "Đau mũi khi hít không khí lạnh có thể do khô niêm mạc hoặc viêm xoang. Dùng khăn che mũi, nhỏ nước muối sinh lý, và uống đủ nước."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm cơ delta vai?",
+    "answer": "Viêm cơ delta vai gây đau khi nâng tay, yếu cơ, và khó xoay vai. Nghỉ ngơi, tập phục hồi, và đi khám nếu triệu chứng nặng."
+  },
+  {
+    "question": "Tại sao tôi bị đau ngực khi nuốt thức ăn?",
+    "answer": "Đau ngực khi nuốt có thể do viêm thực quản hoặc co thắt thực quản. Ăn chậm, tránh đồ cay, và đi khám tiêu hóa nếu kéo dài."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm mí mắt?",
+    "answer": "Giữ vệ sinh mắt, rửa tay trước khi chạm mắt, tránh dùng mỹ phẩm cũ, và lau mí mắt bằng nước ấm để ngăn viêm mí mắt."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm tuyến giáp bán cấp là gì?",
+    "answer": "Viêm tuyến giáp bán cấp gây đau cổ, sốt, mệt mỏi, và tim đập nhanh. Xét nghiệm máu và siêu âm giúp chẩn đoán."
+  },
+  {
+    "question": "Tại sao tôi bị đau cổ họng khi nói nhiều?",
+    "answer": "Đau cổ họng khi nói nhiều có thể do căng dây thanh quản hoặc viêm họng. Nghỉ ngơi giọng nói, uống trà ấm, và đi khám nếu kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh viêm mao mạch dị ứng?",
+    "answer": "Nghỉ ngơi, dùng thuốc chống viêm, tránh tác nhân dị ứng, và tái khám định kỳ để kiểm soát viêm mao mạch dị ứng."
+  },
+  {
+    "question": "Tại sao tôi bị đau đầu gối khi ngồi lâu?",
+    "answer": "Đau đầu gối khi ngồi lâu có thể do cứng khớp hoặc viêm bao hoạt dịch. Đứng dậy vận động, tập giãn cơ, và đi khám nếu đau nặng."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm phổi do hóa chất?",
+    "answer": "Viêm phổi do hóa chất gây khó thở, ho, và đau ngực sau tiếp xúc hóa chất. Cần đi khám phổi ngay để điều trị."
+  },
+  {
+    "question": "Tại sao tôi bị ngứa da khi mặc quần áo len?",
+    "answer": "Ngứa da khi mặc quần áo len có thể do dị ứng vải hoặc da nhạy cảm. Mặc áo lót cotton, giặt quần áo mới, và dùng kem dưỡng ẩm."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm khớp vai ở người làm văn phòng?",
+    "answer": "Tập các bài tập giãn vai, điều chỉnh tư thế ngồi, nghỉ ngơi thường xuyên, và tránh mang túi nặng để ngăn viêm khớp vai."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm túi mật mãn tính là gì?",
+    "answer": "Viêm túi mật mãn tính gây đau bụng trên phải, đầy hơi, và khó tiêu sau ăn béo. Siêu âm bụng giúp chẩn đoán."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng trên khi hít thở sâu?",
+    "answer": "Đau bụng trên khi hít thở sâu có thể do viêm cơ hoành hoặc vấn đề dạ dày. Đi khám nếu đau kèm sốt hoặc khó thở."
+  },
+  {
+    "question": "Cách chăm sóc người bị bệnh viêm tuyến giáp Hashimoto?",
+    "answer": "Dùng thuốc thay thế hormone, ăn đủ i-ốt, giảm stress, và kiểm tra hormone tuyến giáp định kỳ để quản lý bệnh Hashimoto."
+  },
+  {
+    "question": "Tại sao tôi bị đau tai khi thay đổi độ cao?",
+    "answer": "Đau tai khi thay đổi độ cao do áp suất không cân bằng. Nhai kẹo gum, nuốt nước bọt, hoặc dùng động tác Valsalva để giảm đau."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm gân bánh chè?",
+    "answer": "Viêm gân bánh chè gây đau dưới đầu gối, sưng, và khó chạy nhảy. Nghỉ ngơi, chườm lạnh, và tập phục hồi chức năng."
+  },
+  {
+    "question": "Tại sao tôi bị đau ngực khi uống đồ nóng?",
+    "answer": "Đau ngực khi uống đồ nóng có thể do viêm thực quản hoặc nhạy cảm dạ dày. Tránh đồ nóng, ăn nhẹ, và đi khám nếu kéo dài."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm da mủ ở trẻ em?",
+    "answer": "Giữ da trẻ sạch, cắt móng tay ngắn, tránh gãi, và dùng xà phòng dịu nhẹ để ngăn viêm da mủ."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm cơ tim do virus là gì?",
+    "answer": "Viêm cơ tim do virus gây đau ngực, khó thở, mệt mỏi, và sốt. Cần đi khám tim mạch ngay để điều trị."
+  },
+  {
+    "question": "Tại sao tôi bị đau bụng khi ăn đồ cay?",
+    "answer": "Đau bụng khi ăn đồ cay có thể do kích ứng dạ dày hoặc viêm loét. Hạn chế đồ cay, ăn nhẹ, và đi khám tiêu hóa nếu đau lâu."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị bệnh viêm khớp thiếu niên?",
+    "answer": "Dùng thuốc chống viêm, tập vật lý trị liệu, ăn uống đủ chất, và tái khám định kỳ để kiểm soát viêm khớp thiếu niên."
+  },
+  {
+    "question": "Tại sao tôi bị đau cổ khi quay đầu nhanh?",
+    "answer": "Đau cổ khi quay đầu nhanh có thể do co cơ hoặc chèn ép dây thần kinh. Massage nhẹ, chườm ấm, và đi khám nếu đau kéo dài."
+  },
+  {
+    "question": "Cách nhận biết bệnh viêm mô tế bào?",
+    "answer": "Viêm mô tế bào gây sưng đỏ, nóng, đau da, và sốt. Cần đi khám da liễu để dùng kháng sinh kịp thời."
+  },
+  {
+    "question": "Tại sao tôi bị đau vai trái khi làm việc nặng?",
+    "answer": "Đau vai trái khi làm việc nặng có thể do căng cơ hoặc viêm gân. Nghỉ ngơi, chườm lạnh, và đi khám nếu đau không giảm."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh viêm tuyến giáp do thiếu i-ốt?",
+    "answer": "Ăn thực phẩm giàu i-ốt như hải sản, muối i-ốt, và kiểm tra sức khỏe tuyến giáp định kỳ để ngăn viêm tuyến giáp."
+  },
+  {
+    "question": "Triệu chứng của bệnh viêm cơ thắt lưng là gì?",
+    "answer": "Viêm cơ thắt lưng gây đau lưng dưới, cứng cơ, và khó cúi. Nghỉ ngơi, chườm ấm, và tập phục hồi chức năng."
+  },
+  {
+    "question": "Tại sao tôi bị đau mắt khi đọc sách lâu?",
+    "answer": "Đau mắt khi đọc sách lâu có thể do mỏi mắt hoặc khô mắt. Nghỉ mắt mỗi 20 phút, chớp mắt nhiều, và đi khám mắt nếu kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc người bị bệnh viêm mạch máu?",
+    "answer": "Dùng thuốc chống viêm, nghỉ ngơi đầy đủ, ăn uống lành mạnh, và tái khám định kỳ để kiểm soát viêm mạch máu."
+  },
+  {
+    "question": "Tại sao tôi bị đau đầu khi thay đổi thời tiết?",
+    "answer": "Đau đầu khi thay đổi thời tiết có thể do thay đổi áp suất hoặc migraine. Uống đủ nước, nghỉ ngơi, và dùng thuốc giảm đau nếu cần."
   }
 ]
