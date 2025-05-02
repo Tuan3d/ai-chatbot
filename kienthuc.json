@@ -1,0 +1,814 @@
+[
+  {
+    "question": "bạn là ai",
+    "answer": "Bạn hỏi tôi là ai? Tôi là AI Cute, một chatbot y tế dễ thương được tạo bởi AnhTuan - Studio, sẵn lòng giúp bạn với các câu hỏi về sức khỏe!"
+  },
+  {
+    "question": "bạn tên gì",
+    "answer": "Bạn muốn biết tên tôi? Tôi là AI Cute, cái tên siêu đáng yêu mà Tuấn đã đặt cho tôi!"
+  },
+  {
+    "question": "bạn làm được gì",
+    "answer": "Bạn hỏi tôi làm được gì? Tôi có thể trả lời các câu hỏi về bệnh lý, triệu chứng, phòng ngừa, dinh dưỡng, sơ cứu, và chia sẻ thông tin y tế cơ bản một cách dễ hiểu!"
+  },
+  {
+    "question": "tạm biệt",
+    "answer": "Bạn muốn nói tạm biệt? Tạm biệt nhé, giữ gìn sức khỏe và hẹn gặp lại bạn nha!"
+  },
+  {
+    "question": "Huyết áp cao là gì?",
+    "answer": "Bạn hỏi huyết áp cao là gì? Huyết áp cao, hay tăng huyết áp, là khi áp lực máu lên thành mạch vượt quá mức bình thường (thường trên 140/90 mmHg), có thể gây nguy cơ đột quỵ hoặc nhồi máu cơ tim nếu không kiểm soát."
+  },
+  {
+    "question": "Nguyên nhân gây huyết áp cao?",
+    "answer": "Bạn muốn biết nguyên nhân gây huyết áp cao? Có thể do di truyền, ăn nhiều muối, béo phì, căng thẳng, hút thuốc, ít vận động, hoặc một số bệnh như bệnh thận hay tiểu đường."
+  },
+  {
+    "question": "Làm thế nào để đo huyết áp tại nhà?",
+    "answer": "Bạn hỏi cách đo huyết áp tại nhà? Dùng máy đo huyết áp điện tử, ngồi yên 5 phút, đặt tay ngang tim, đo 2-3 lần cách nhau 1-2 phút, rồi lấy trung bình kết quả. Nhớ tránh cà phê hay thuốc lá trước khi đo nhé!"
+  },
+  {
+    "question": "Tiểu đường là gì?",
+    "answer": "Bạn hỏi tiểu đường là gì? Tiểu đường là bệnh mãn tính khi cơ thể không sản xuất đủ insulin hoặc không dùng insulin hiệu quả, khiến đường trong máu tăng cao."
+  },
+  {
+    "question": "Triệu chứng của tiểu đường?",
+    "answer": "Bạn muốn biết triệu chứng của tiểu đường? Các dấu hiệu gồm khát nước, đi tiểu nhiều, mệt mỏi, giảm cân không rõ lý do, mờ mắt, và vết thương lâu lành."
+  },
+  {
+    "question": "Làm thế nào để phòng tiểu đường?",
+    "answer": "Bạn hỏi cách phòng tiểu đường? Hãy giữ cân nặng hợp lý, ăn ít đường và tinh bột, tập thể dục đều đặn, kiểm tra đường huyết thường xuyên, và tránh hút thuốc."
+  },
+  {
+    "question": "Cảm cúm là gì?",
+    "answer": "Bạn hỏi cảm cúm là gì? Cảm cúm là bệnh do virus cúm gây ra, ảnh hưởng đường hô hấp, với các triệu chứng như sốt, ho, đau họng, sổ mũi, và đau cơ."
+  },
+  {
+    "question": "Cách điều trị cảm cúm tại nhà?",
+    "answer": "Bạn muốn biết cách điều trị cảm cúm tại nhà? Nghỉ ngơi, uống nhiều nước, ăn nhẹ, dùng thuốc hạ sốt như paracetamol nếu cần, và giữ ấm cơ thể. Nếu triệu chứng nặng, hãy đi khám nhé!"
+  },
+  {
+    "question": "Làm thế nào để tránh cảm cúm?",
+    "answer": "Bạn hỏi cách tránh cảm cúm? Rửa tay thường xuyên, tiêm vắc-xin cúm hàng năm, tránh tiếp xúc với người bệnh, và ăn thực phẩm giàu vitamin C để tăng sức đề kháng."
+  },
+  {
+    "question": "Đau đầu là dấu hiệu của bệnh gì?",
+    "answer": "Bạn hỏi đau đầu là dấu hiệu của bệnh gì? Đau đầu có thể do căng thẳng, mất nước, thiếu ngủ, hoặc các bệnh như migraine, huyết áp cao, hay nhiễm trùng. Nếu đau kéo dài, nên đi khám."
+  },
+  {
+    "question": "Cách giảm đau đầu tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau đầu tại nhà? Nghỉ ngơi ở nơi yên tĩnh, uống đủ nước, massage nhẹ vùng thái dương, hoặc dùng thuốc giảm đau như paracetamol nếu cần."
+  },
+  {
+    "question": "Cholesterol cao là gì?",
+    "answer": "Bạn hỏi cholesterol cao là gì? Cholesterol cao là khi nồng độ cholesterol trong máu vượt mức bình thường, làm tăng nguy cơ bệnh tim và đột quỵ."
+  },
+  {
+    "question": "Thực phẩm nào tốt cho người cholesterol cao?",
+    "answer": "Bạn hỏi thực phẩm tốt cho người cholesterol cao? Nên ăn yến mạch, rau xanh, trái cây như táo, cam, cá giàu omega-3 như cá hồi, và hạn chế đồ chiên rán hay mỡ động vật."
+  },
+  {
+    "question": "Cách sơ cứu khi bị bỏng?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị bỏng? Làm mát vết bỏng dưới vòi nước sạch 10-15 phút, không chà xát, không bôi kem đánh răng hay dầu. Che bằng gạc sạch và đi khám nếu nghiêm trọng."
+  },
+  {
+    "question": "Paracetamol dùng khi nào?",
+    "answer": "Bạn hỏi paracetamol dùng khi nào? Paracetamol dùng để giảm đau như đau đầu, đau cơ, hoặc hạ sốt. Không dùng quá 4g/ngày cho người lớn và cần theo hướng dẫn bác sĩ."
+  },
+  {
+    "question": "Vitamin D có tác dụng gì?",
+    "answer": "Bạn hỏi vitamin D có tác dụng gì? Vitamin D giúp hấp thụ canxi, tăng cường sức khỏe xương, hỗ trợ hệ miễn dịch, và giảm nguy cơ loãng xương."
+  },
+  {
+    "question": "Làm thế nào để tăng cường hệ miễn dịch?",
+    "answer": "Bạn hỏi cách tăng cường hệ miễn dịch? Hãy ăn uống cân bằng, giàu vitamin C và kẽm, ngủ đủ giấc, tập thể dục đều đặn, và giảm căng thẳng."
+  },
+  {
+    "question": "Đau bụng là dấu hiệu của bệnh gì?",
+    "answer": "Bạn hỏi đau bụng là dấu hiệu của bệnh gì? Đau bụng có thể do rối loạn tiêu hóa, viêm ruột thừa, sỏi thận, hoặc vấn đề dạ dày. Nếu đau dữ dội hoặc kéo dài, cần đi khám ngay."
+  },
+  {
+    "question": "Cách sơ cứu khi bị ngất?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị ngất? Đặt người nằm ngửa, nâng chân cao 30cm, nới lỏng quần áo, đảm bảo thoáng khí. Nếu không tỉnh sau 1-2 phút, gọi cấp cứu."
+  },
+  {
+    "question": "Bệnh tim có triệu chứng gì?",
+    "answer": "Bạn hỏi bệnh tim có triệu chứng gì? Các dấu hiệu gồm đau ngực, khó thở, mệt mỏi, tim đập nhanh, và sưng chân. Nếu có dấu hiệu nghiêm trọng, cần đi khám ngay."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh tim?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh tim? Ăn ít mueline và chất béo, tập thể dục, không hút thuốc, kiểm soát cân nặng, và kiểm tra huyết áp, cholesterol định kỳ."
+  },
+  {
+    "question": "Viêm họng là gì?",
+    "answer": "Bạn hỏi viêm họng là gì? Viêm họng là tình trạng viêm ở cổ họng, thường do virus hoặc vi khuẩn, gây đau rát, khó nuốt, và đôi khi sốt."
+  },
+  {
+    "question": "Cách điều trị viêm họng tại nhà?",
+    "answer": "Bạn muốn biết cách điều trị viêm họng tại nhà? Súc miệng nước muối, uống trà ấm với mật ong, nghỉ ngơi, và tránh đồ lạnh. Nếu triệu chứng kéo dài, hãy đi khám."
+  },
+  {
+    "question": "Thiếu máu là gì?",
+    "answer": "Bạn hỏi thiếu máu là gì? Thiếu máu là tình trạng cơ thể thiếu hồng cầu hoặc hemoglobin, dẫn đến mệt mỏi, da nhợt nhạt, và khó thở."
+  },
+  {
+    "question": "Nguyên nhân gây thiếu máu?",
+    "answer": "Bạn muốn biết nguyên nhân gây thiếu máu? Có thể do thiếu sắt, thiếu vitamin B12, mất máu mãn tính, hoặc các bệnh như suy thận, ung thư."
+  },
+  {
+    "question": "Thực phẩm nào tốt cho người thiếu máu?",
+    "answer": "Bạn hỏi thực phẩm tốt cho người thiếu máu? Nên ăn gan, thịt đỏ, rau xanh như cải bó xôi, đậu, và trái cây giàu vitamin C để tăng hấp thụ sắt."
+  },
+  {
+    "question": "Dị ứng là gì?",
+    "answer": "Bạn hỏi dị ứng là gì? Dị ứng là phản ứng quá mức của hệ miễn dịch với các chất như phấn hoa, thực phẩm, hoặc lông động vật, gây ngứa, nổi mẩn, hoặc khó thở."
+  },
+  {
+    "question": "Cách xử lý khi bị dị ứng nhẹ?",
+    "answer": "Bạn hỏi cách xử lý khi bị dị ứng nhẹ? Tránh tiếp xúc với tác nhân gây dị ứng, rửa sạch vùng ảnh hưởng, dùng thuốc kháng histamine nếu cần, và theo dõi triệu chứng."
+  },
+  {
+    "question": "Mụn trứng cá là gì?",
+    "answer": "Bạn hỏi mụn trứng cá là gì? Mụn trứng cá là tình trạng da bị viêm do bã nhờn và vi khuẩn tích tụ, thường xuất hiện ở mặt, lưng, hoặc ngực."
+  },
+  {
+    "question": "Cách chăm sóc da để giảm mụn trứng cá?",
+    "answer": "Bạn muốn biết cách chăm sóc da để giảm mụn trứng cá? Rửa mặt 2 lần/ngày, dùng sản phẩm không chứa dầu, tránh nặn mụn, và ăn ít đồ ngọt, dầu mỡ."
+  },
+  {
+    "question": "Lo âu là gì?",
+    "answer": "Bạn hỏi lo âu là gì? Lo âu là trạng thái tâm lý căng thẳng, lo lắng quá mức, có thể kèm theo tim đập nhanh, khó thở, hoặc mất ngủ."
+  },
+  {
+    "question": "Cách giảm lo âu tại nhà?",
+    "answer": "Bạn muốn biết cách giảm lo âu tại nhà? Thực hành thở sâu, tập yoga, ngủ đủ giấc, trò chuyện với người thân, và hạn chế caffeine."
+  },
+  {
+    "question": "Sỏi thận là gì?",
+    "answer": "Bạn hỏi sỏi thận là gì? Sỏi thận là các tinh thể rắn hình thành trong thận từ khoáng chất, gây đau lưng, tiểu máu, hoặc khó tiểu."
+  },
+  {
+    "question": "Cách phòng ngừa sỏi thận?",
+    "answer": "Bạn hỏi cách phòng ngừa sỏi thận? Uống đủ nước (2-3 lít/ngày), giảm ăn mặn, hạn chế thực phẩm giàu oxalate như rau bina, và kiểm tra sức khỏe định kỳ."
+  },
+  {
+    "question": "Viêm dạ dày là gì?",
+    "answer": "Bạn hỏi viêm dạ dày là gì? Viêm dạ dày là tình trạng niêm mạc dạ dày bị viêm, thường do vi khuẩn HP, ăn uống không lành mạnh, hoặc stress."
+  },
+  {
+    "question": "Triệu chứng của viêm dạ dày?",
+    "answer": "Bạn muốn biết triệu chứng của viêm dạ dày? Các dấu hiệu gồm đau bụng trên, buồn nôn, ợ nóng, đầy hơi, và cảm giác nóng rát."
+  },
+  {
+    "question": "Cách sơ cứu khi bị chảy máu cam?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị chảy máu cam? Ngồi thẳng, nghiêng đầu về phía trước, bóp chặt cánh mũi 5-10 phút, và không ngoáy mũi sau đó."
+  },
+  {
+    "question": "Vitamin C có tác dụng gì?",
+    "answer": "Bạn hỏi vitamin C có tác dụng gì? Vitamin C tăng cường hệ miễn dịch, hỗ trợ lành vết thương, và bảo vệ da khỏi tác hại của tia UV."
+  },
+  {
+    "question": "Cách phòng ngừa sâu răng?",
+    "answer": "Bạn hỏi cách phòng ngừa sâu răng? Đánh răng 2 lần/ngày, dùng chỉ nha khoa, hạn chế đồ ngọt, và đi khám nha sĩ định kỳ."
+  },
+  {
+    "question": "Bệnh gout là gì?",
+    "answer": "Bạn hỏi bệnh gout là gì? Gout là bệnh do tích tụ axit uric trong máu, gây viêm khớp, thường ở ngón chân cái, với cơn đau dữ dội."
+  },
+  {
+    "question": "Thực phẩm nên tránh khi bị gout?",
+    "answer": "Bạn hỏi thực phẩm nên tránh khi bị gout? Hạn chế hải sản, thịt đỏ, nội tạng, rượu bia, và uống nhiều nước để giảm axit uric."
+  },
+  {
+    "question": "Mất ngủ là gì?",
+    "answer": "Bạn hỏi mất ngủ là gì? Mất ngủ là tình trạng khó đi vào giấc ngủ, ngủ không sâu, hoặc thức dậy quá sớm, ảnh hưởng sức khỏe và tinh thần."
+  },
+  {
+    "question": "Cách cải thiện giấc ngủ?",
+    "answer": "Bạn muốn biết cách cải thiện giấc ngủ? Đi ngủ đúng giờ, tránh màn hình điện tử trước khi ngủ, uống trà thảo mộc, và tạo không gian ngủ thoải mái."
+  },
+  {
+    "question": "Cách sơ cứu khi bị điện giật?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị điện giật? Ngắt nguồn điện ngay, không chạm trực tiếp vào nạn nhân, kiểm tra nhịp thở, và gọi cấp cứu nếu cần."
+  },
+  {
+    "question": "Bệnh zona là gì?",
+    "answer": "Bạn hỏi bệnh zona là gì? Zona là bệnh do virus varicella-zoster gây ra, dẫn đến phát ban đỏ, đau rát, thường ở một bên cơ thể."
+  },
+  {
+    "question": "Cách chăm sóc khi bị zona?",
+    "answer": "Bạn muốn biết cách chăm sóc khi bị zona? Giữ vùng da sạch, dùng thuốc theo chỉ định bác sĩ, tránh gãi, và nghỉ ngơi để tăng sức đề kháng."
+  },
+  {
+    "question": "Huyết áp thấp là gì?",
+    "answer": "Bạn hỏi huyết áp thấp là gì? Huyết áp thấp là khi huyết áp dưới 90/60 mmHg, gây chóng mặt, mệt mỏi, hoặc ngất."
+  },
+  {
+    "question": "Cách xử lý khi bị huyết áp thấp?",
+    "answer": "Bạn hỏi cách xử lý khi bị huyết áp thấp? Nằm xuống, nâng chân cao, uống nước hoặc nước muối nhẹ, và ăn nhẹ nếu có thể. Nếu thường xuyên, nên đi khám."
+  },
+  {
+    "question": "Cách chăm sóc mắt để tránh mỏi mắt?",
+    "answer": "Bạn hỏi cách chăm sóc mắt để tránh mỏi mắt? Nghỉ mắt mỗi 20 phút khi dùng máy tính, điều chỉnh ánh sáng màn hình, chớp mắt thường xuyên, và ăn thực phẩm giàu vitamin A."
+  },
+  {
+    "question": "Bệnh viêm gan B là gì?",
+    "answer": "Bạn hỏi bệnh viêm gan B là gì? Viêm gan B là bệnh do virus HBV gây ra, ảnh hưởng đến gan, có thể dẫn đến viêm gan mãn tính hoặc ung thư gan."
+  },
+  {
+    "question": "Cách phòng ngừa viêm gan B?",
+    "answer": "Bạn hỏi cách phòng ngừa viêm gan B? Tiêm vắc-xin viêm gan B, tránh dùng chung kim tiêm, và sử dụng biện pháp bảo vệ khi quan hệ tình dục."
+  },
+  {
+    "question": "Viêm khớp là gì?",
+    "answer": "Bạn hỏi viêm khớp là gì? Viêm khớp là tình trạng viêm ở khớp, gây đau, sưng, và cứng khớp, thường do viêm khớp dạng thấp hoặc thoái hóa khớp."
+  },
+  {
+    "question": "Cách giảm đau viêm khớp tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau viêm khớp tại nhà? Chườm nóng hoặc lạnh, tập các bài tập nhẹ nhàng, duy trì cân nặng hợp lý, và dùng thuốc giảm đau nếu bác sĩ chỉ định."
+  },
+  {
+    "question": "Đau lưng là dấu hiệu của bệnh gì?",
+    "answer": "Bạn hỏi đau lưng là dấu hiệu của bệnh gì? Đau lưng có thể do căng cơ, thoát vị đĩa đệm, sỏi thận, hoặc tư thế sai. Nếu đau kéo dài, nên đi khám."
+  },
+  {
+    "question": "Cách phòng ngừa đau lưng?",
+    "answer": "Bạn hỏi cách phòng ngừa đau lưng? Giữ tư thế đúng khi ngồi và đứng, tập thể dục tăng cường cơ lưng, tránh nâng vật nặng sai cách, và ngủ trên nệm vừa phải."
+  },
+  {
+    "question": "Sốt xuất huyết là gì?",
+    "answer": "Bạn hỏi sốt xuất huyết là gì? Sốt xuất huyết là bệnh do virus Dengue lây qua muỗi, gây sốt cao, đau cơ, phát ban, và có thể nguy hiểm nếu không điều trị kịp thời."
+  },
+  {
+    "question": "Triệu chứng của sốt xuất huyết?",
+    "answer": "Bạn muốn biết triệu chứng của sốt xuất huyết? Các dấu hiệu gồm sốt cao đột ngột, đau đầu, đau sau mắt, đau cơ, phát ban, và chảy máu nhẹ như chảy máu cam."
+  },
+  {
+    "question": "Cách phòng ngừa sốt xuất huyết?",
+    "answer": "Bạn hỏi cách phòng ngừa sốt xuất huyết? Diệt muỗi, dọn sạch nơi đọng nước, ngủ màn, dùng thuốc chống muỗi, và mặc áo dài khi ở khu vực có muỗi."
+  },
+  {
+    "question": "Bệnh phổi tắc nghẽn mãn tính là gì?",
+    "answer": "Bạn hỏi bệnh phổi tắc nghẽn mãn tính là gì? Bệnh phổi tắc nghẽn mãn tính (COPD) là bệnh phổi làm khó thở, thường do hút thuốc hoặc tiếp xúc với khói bụi lâu dài."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh phổi tắc nghẽn mãn tính?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh phổi tắc nghẽn mãn tính? Không hút thuốc, tránh khói bụi và hóa chất, đeo khẩu trang khi làm việc trong môi trường ô nhiễm, và tập thở sâu."
+  },
+  {
+    "question": "Táo bón là gì?",
+    "answer": "Bạn hỏi táo bón là gì? Táo bón là tình trạng đi tiêu khó, phân cứng, hoặc đi tiêu ít hơn 3 lần/tuần, thường do thiếu chất xơ hoặc uống ít nước."
+  },
+  {
+    "question": "Cách điều trị táo bón tại nhà?",
+    "answer": "Bạn muốn biết cách điều trị táo bón tại nhà? Uống nhiều nước, ăn thực phẩm giàu chất xơ như rau xanh, trái cây, tập thể dục nhẹ, và tránh nhịn đi tiêu."
+  },
+  {
+    "question": "Cách chăm sóc trẻ bị sốt?",
+    "answer": "Bạn hỏi cách chăm sóc trẻ bị sốt? Lau người trẻ bằng nước ấm, cho trẻ uống nhiều nước, dùng paracetamol liều lượng theo cân nặng, và đưa trẻ đi khám nếu sốt trên 38,5°C kéo dài."
+  },
+  {
+    "question": "Suy dinh dưỡng ở trẻ em là gì?",
+    "answer": "Bạn hỏi suy dinh dưỡng ở trẻ em là gì? Suy dinh dưỡng là tình trạng trẻ thiếu chất dinh dưỡng cần thiết, dẫn đến chậm phát triển, nhẹ cân, hoặc thấp còi."
+  },
+  {
+    "question": "Cách phòng ngừa suy dinh dưỡng ở trẻ?",
+    "answer": "Bạn hỏi cách phòng ngừa suy dinh dưỡng ở trẻ? Cho trẻ ăn đa dạng thực phẩm, bổ sung sữa, vitamin, theo dõi cân nặng thường xuyên, và tiêm phòng đầy đủ."
+  },
+  {
+    "question": "Kinh nguyệt không đều là gì?",
+    "answer": "Bạn hỏi kinh nguyệt không đều là gì? Kinh nguyệt không đều là khi chu kỳ kinh nguyệt thay đổi bất thường về thời gian hoặc lượng máu, có thể do stress, nội tiết, hoặc bệnh lý."
+  },
+  {
+    "question": "Cách cải thiện kinh nguyệt không đều?",
+    "answer": "Bạn muốn biết cách cải thiện kinh nguyệt không đều? Giữ cân nặng ổn định, giảm stress, ăn uống lành mạnh, tập thể dục nhẹ, và đi khám phụ khoa nếu cần."
+  },
+  {
+    "question": "Cách sơ cứu khi bị rắn cắn?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị rắn cắn? Giữ nạn nhân nằm yên, băng ép nhẹ trên vết cắn, không hút nọc, và đưa đến bệnh viện ngay lập tức."
+  },
+  {
+    "question": "Bệnh basedow là gì?",
+    "answer": "Bạn hỏi bệnh Basedow là gì? Basedow là bệnh cường giáp do tuyến giáp hoạt động quá mức, gây bướu cổ, tim đập nhanh, sụt cân, và run tay."
+  },
+  {
+    "question": "Triệu chứng của bệnh basedow?",
+    "answer": "Bạn muốn biết triệu chứng của bệnh Basedow? Các dấu hiệu gồm bướu cổ, mắt lồi, mệt mỏi, sụt cân, đổ mồ hôi nhiều, và nhịp tim nhanh."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh basedow?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh Basedow? Tránh stress, ăn đủ i-ốt, kiểm tra sức khỏe định kỳ, và đi khám ngay nếu có dấu hiệu bất thường ở cổ hoặc mắt."
+  },
+  {
+    "question": "Nhiễm trùng đường tiểu là gì?",
+    "answer": "Bạn hỏi nhiễm trùng đường tiểu là gì? Nhiễm trùng đường tiểu là tình trạng vi khuẩn xâm nhập vào đường tiết niệu, gây tiểu buốt, tiểu nhiều lần, hoặc đau bụng dưới."
+  },
+  {
+    "question": "Cách phòng ngừa nhiễm trùng đường tiểu?",
+    "answer": "Bạn hỏi cách phòng ngừa nhiễm trùng đường tiểu? Uống đủ nước, đi tiểu ngay sau khi có nhu cầu, vệ sinh sạch sẽ, và tránh mặc quần áo bó sát."
+  },
+  {
+    "question": "Cách chăm sóc tóc để giảm gãy rụng?",
+    "answer": "Bạn hỏi cách chăm sóc tóc để giảm gãy rụng? Gội đầu nhẹ nhàng, tránh sấy nóng, ăn thực phẩm giàu biotin như trứng, JJ, và bổ sung vitamin nếu cần."
+  },
+  {
+    "question": "Bệnh lao phổi là gì?",
+    "answer": "Bạn hỏi bệnh lao phổi là gì? Lao phổi là bệnh truyền nhiễm do vi khuẩn Mycobacterium tuberculosis, gây ho kéo dài, đau ngực, và sụt cân."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh lao phổi?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh lao phổi? Tiêm vắc-xin BCG, tránh tiếp xúc với người bệnh, giữ môi trường sống thông thoáng, và kiểm tra sức khỏe định kỳ."
+  },
+  {
+    "question": "Cách sơ cứu khi bị gãy xương?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị gãy xương? Giữ vùng gãy cố định bằng nẹp, không di chuyển nạn nhân, và đưa đến bệnh viện ngay lập tức."
+  },
+  {
+    "question": "Loãng xương là gì?",
+    "answer": "Bạn hỏi loãng xương là gì? Loãng xương là tình trạng xương mất mật độ, trở nên giòn và dễ gãy, thường gặp ở người lớn tuổi."
+  },
+  {
+    "question": "Cách phòng ngừa loãng xương?",
+    "answer": "Bạn hỏi cách phòng ngừa loãng xương? Bổ sung canxi và vitamin D, tập thể dục như đi bộ, tránh hút thuốc, và kiểm tra mật độ xương định kỳ."
+  },
+  {
+    "question": "Viêm xoang là gì?",
+    "answer": "Bạn hỏi viêm xoang là gì? Viêm xoang là tình trạng viêm ở các xoang cạnh mũi, gây nghẹt mũi, đau đầu, và chảy dịch mũi, thường do vi khuẩn hoặc dị ứng."
+  },
+  {
+    "question": "Cách điều trị viêm xoang tại nhà?",
+    "answer": "Bạn muốn biết cách điều trị viêm xoang tại nhà? Xông hơi nước ấm, rửa mũi bằng nước muối sinh lý, uống đủ nước, và tránh khói bụi. Nếu triệu chứng nặng, hãy đi khám."
+  },
+  {
+    "question": "Đau nửa đầu là gì?",
+    "answer": "Bạn hỏi đau nửa đầu là gì? Đau nửa đầu, hay migraine, là cơn đau đầu dữ dội ở một bên đầu, thường kèm buồn nôn, nhạy cảm với ánh sáng hoặc âm thanh."
+  },
+  {
+    "question": "Cách giảm đau nửa đầu tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau nửa đầu tại nhà? Nghỉ ngơi ở phòng tối, yên tĩnh, chườm lạnh lên trán, uống đủ nước, và dùng thuốc theo chỉ định bác sĩ."
+  },
+  {
+    "question": "Hội chứng ruột kích thích là gì?",
+    "answer": "Bạn hỏi hội chứng ruột kích thích là gì? Hội chứng ruột kích thích là rối loạn tiêu hóa gây đau bụng, đầy hơi, tiêu chảy hoặc táo bón, thường liên quan đến stress."
+  },
+  {
+    "question": "Cách giảm triệu chứng hội chứng ruột kích thích?",
+    "answer": "Bạn muốn biết cách giảm triệu chứng hội chứng ruột kích thích? Ăn thực phẩm dễ tiêu, tránh đồ cay và caffeine, giảm stress, và ghi nhật ký ăn uống để tìm tác nhân."
+  },
+  {
+    "question": "Cách chăm sóc người cao tuổi để khỏe mạnh?",
+    "answer": "Bạn hỏi cách chăm sóc người cao tuổi để khỏe mạnh? Khuyến khích ăn uống cân bằng, tập thể dục nhẹ, kiểm tra sức khỏe định kỳ, và tạo môi trường sống an toàn."
+  },
+  {
+    "question": "Bệnh nướu răng là gì?",
+    "answer": "Bạn hỏi bệnh nướu răng là gì? Bệnh nướu răng là tình trạng viêm nướu do mảng bám, gây sưng, chảy máu nướu, và có thể dẫn đến mất răng nếu không điều trị."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh nướu răng?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh nướu răng? Đánh răng đúng cách, dùng chỉ nha khoa, súc miệng nước muối, và đi nha sĩ kiểm tra 6 tháng/lần."
+  },
+  {
+    "question": "Sởi là gì?",
+    "answer": "Bạn hỏi sởi là gì? Sởi là bệnh truyền nhiễm do virus gây ra, với triệu chứng sốt cao, phát ban, ho, và sổ mũi, thường gặp ở trẻ em chưa tiêm vắc-xin."
+  },
+  {
+    "question": "Cách phòng ngừa sởi?",
+    "answer": "Bạn hỏi cách phòng ngừa sởi? Tiêm vắc-xin sởi theo lịch, tránh tiếp xúc với người bệnh, và giữ vệ sinh cá nhân sạch sẽ."
+  },
+  {
+    "question": "Cách sơ cứu khi bị nghẹn thức ăn?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị nghẹn thức ăn? Thực hiện thủ thuật Heimlich: đứng sau nạn nhân, ôm bụng, ấn mạnh lên trên dưới xương sườn. Nếu không hiệu quả, gọi cấp cứu."
+  },
+  {
+    "question": "Suy giáp là gì?",
+    "answer": "Bạn hỏi suy giáp là gì? Suy giáp là tình trạng tuyến giáp hoạt động kém, gây mệt mỏi, tăng cân, da khô, và nhạy cảm với lạnh."
+  },
+  {
+    "question": "Triệu chứng của suy giáp?",
+    "answer": "Bạn muốn biết triệu chứng của suy giáp? Các dấu hiệu gồm mệt mỏi, tăng cân, tóc rụng, da khô, táo bón, và cảm giác lạnh thường xuyên."
+  },
+  {
+    "question": "Cách chăm sóc khi bị suy giáp?",
+    "answer": "Bạn muốn biết cách chăm sóc khi bị suy giáp? Uống thuốc theo chỉ định bác sĩ, ăn thực phẩm giàu i-ốt như hải sản, kiểm tra hormone định kỳ, và giữ ấm cơ thể."
+  },
+  {
+    "question": "Bệnh tay chân miệng là gì?",
+    "answer": "Bạn hỏi bệnh tay chân miệng là gì? Tay chân miệng là bệnh do virus gây ra, thường gặp ở trẻ em, với triệu chứng sốt, loét miệng, và phát ban ở tay chân."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh tay chân miệng?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh tay chân miệng? Rửa tay thường xuyên, vệ sinh đồ chơi, tránh tiếp xúc với trẻ bệnh, và giữ môi trường sống sạch sẽ."
+  },
+  {
+    "question": "Đau mắt đỏ là gì?",
+    "answer": "Bạn hỏi đau mắt đỏ là gì? Đau mắt đỏ là tình trạng viêm kết mạc do virus, vi khuẩn, hoặc dị ứng, gây đỏ mắt, ngứa, và chảy nước mắt."
+  },
+  {
+    "question": "Cách chăm sóc khi bị đau mắt đỏ?",
+    "answer": "Bạn muốn biết cách chăm sóc khi bị đau mắt đỏ? Rửa mắt bằng nước muối sinh lý, tránh dụi mắt, không dùng chung khăn, và đi khám nếu triệu chứng nặng."
+  },
+  {
+    "question": "Cách phòng ngừa nhiệt miệng?",
+    "answer": "Bạn hỏi cách phòng ngừa nhiệt miệng? Ăn nhiều rau xanh, uống đủ nước, tránh đồ cay nóng, giữ vệ sinh răng miệng, và giảm stress."
+  },
+  {
+    "question": "Bệnh Parkinson là gì?",
+    "answer": "Bạn hỏi bệnh Parkinson là gì? Parkinson là bệnh thoái hóa thần kinh gây run tay, cứng cơ, và khó vận động, thường gặp ở người lớn tuổi."
+  },
+  {
+    "question": "Triệu chứng của bệnh Parkinson?",
+    "answer": "Bạn muốn biết triệu chứng của bệnh Parkinson? Các dấu hiệu gồm run tay khi nghỉ, cử động chậm, cứng cơ, mất thăng bằng, và thay đổi nét mặt."
+  },
+  {
+    "question": "Cách cải thiện sức khỏe cho người bệnh Parkinson?",
+    "answer": "Bạn muốn biết cách cải thiện sức khỏe cho người bệnh Parkinson? Tập vật lý trị liệu, ăn uống lành mạnh, dùng thuốc theo chỉ định, và tham gia các hoạt động xã hội."
+  },
+  {
+    "question": "Hội chứng tiền kinh nguyệt là gì?",
+    "answer": "Bạn hỏi hội chứng tiền kinh nguyệt là gì? Hội chứng tiền kinh nguyệt là tình trạng xuất hiện các triệu chứng như đau bụng, mệt mỏi, cáu gắt, hoặc đau ngực trước khi có kinh, do thay đổi hormone."
+  },
+  {
+    "question": "Cách giảm hội chứng tiền kinh nguyệt?",
+    "answer": "Bạn muốn biết cách giảm hội chứng tiền kinh nguyệt? Ăn uống lành mạnh, giảm muối và caffeine, tập thể dục nhẹ, ngủ đủ giấc, và thử các kỹ thuật thư giãn như thiền."
+  },
+  {
+    "question": "Cách sơ cứu khi bị chuột rút?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị chuột rút? Kéo căng cơ bị chuột rút nhẹ nhàng, massage vùng bị đau, chườm ấm, và uống nước để bổ sung điện giải."
+  },
+  {
+    "question": "Bệnh thủy đậu là gì?",
+    "answer": "Bạn hỏi bệnh thủy đậu là gì? Thủy đậu là bệnh truyền nhiễm do virus varicella-zoster, gây sốt, ngứa, và mụn nước trên da."
+  },
+  {
+    "question": "Cách phòng ngừa thủy đậu?",
+    "answer": "Bạn hỏi cách phòng ngừa thủy đậu? Tiêm vắc-xin thủy đậu, tránh tiếp xúc với người bệnh, và giữ vệ sinh cá nhân sạch sẽ."
+  },
+  {
+    "question": "Rối loạn lipid máu là gì?",
+    "answer": "Bạn hỏi rối loạn lipid máu là gì? Rối loạn lipid máu là tình trạng bất thường về mức cholesterol hoặc triglyceride trong máu, làm tăng nguy cơ bệnh tim mạch."
+  },
+  {
+    "question": "Cách phòng ngừa rối loạn lipid máu?",
+    "answer": "Bạn hỏi cách phòng ngừa rối loạn lipid máu? Ăn ít chất béo bão hòa, tăng cường rau củ, tập thể dục đều đặn, và kiểm tra lipid máu định kỳ."
+  },
+  {
+    "question": "Viêm phế quản là gì?",
+    "answer": "Bạn hỏi viêm phế quản là gì? Viêm phế quản là tình trạng viêm ở niêm mạc ống phế quản, gây ho, khó thở, và đôi khi có đờm, thường do virus hoặc vi khuẩn."
+  },
+  {
+    "question": "Cách điều trị viêm phế quản tại nhà?",
+    "answer": "Bạn muốn biết cách điều trị viêm phế quản tại nhà? Uống nhiều nước, nghỉ ngơi, dùng máy tạo độ ẩm, tránh khói bụi, và dùng thuốc theo chỉ định nếu cần."
+  },
+  {
+    "question": "Tiểu đêm là gì?",
+    "answer": "Bạn hỏi tiểu đêm là gì? Tiểu đêm là tình trạng đi tiểu nhiều lần vào ban đêm, làm gián đoạn giấc ngủ, có thể do bệnh lý hoặc thói quen uống nước."
+  },
+  {
+    "question": "Cách giảm tiểu đêm?",
+    "answer": "Bạn muốn biết cách giảm tiểu đêm? Hạn chế uống nước trước khi ngủ, đi tiểu trước khi đi ngủ, tránh caffeine, và đi khám nếu tình trạng kéo dài."
+  },
+  {
+    "question": "Cách chăm sóc da vào mùa đông?",
+    "answer": "Bạn hỏi cách chăm sóc da vào mùa đông? Dùng kem dưỡng ẩm, uống đủ nước, tránh tắm nước quá nóng, và sử dụng kem chống nắng để bảo vệ da."
+  },
+  {
+    "question": "Bệnh quai bị là gì?",
+    "answer": "Bạn hỏi bệnh quai bị là gì? Quai bị là bệnh truyền nhiễm do virus, gây sưng đau tuyến nước bọt, sốt, và mệt mỏi, thường gặp ở trẻ em."
+  },
+  {
+    "question": "Cách phòng ngừa quai bị?",
+    "answer": "Bạn hỏi cách phòng ngừa quai bị? Tiêm vắc-xin MMR, tránh tiếp xúc với người bệnh, và giữ vệ sinh cá nhân sạch sẽ."
+  },
+  {
+    "question": "Đau vai gáy là dấu hiệu của bệnh gì?",
+    "answer": "Bạn hỏi đau vai gáy là dấu hiệu của bệnh gì? Đau vai gáy có thể do căng cơ, thoái hóa đốt sống cổ, hoặc tư thế sai, nhưng nếu kéo dài cần đi khám."
+  },
+  {
+    "question": "Cách giảm đau vai gáy tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau vai gáy tại nhà? Chườm ấm, massage nhẹ, tập các bài tập giãn cơ, và giữ tư thế đúng khi làm việc."
+  },
+  {
+    "question": "Bệnh viêm ruột thừa là gì?",
+    "answer": "Bạn hỏi bệnh viêm ruột thừa là gì? Viêm ruột thừa là tình trạng viêm ở ruột thừa, gây đau bụng dữ dội, sốt, và buồn nôn, cần phẫu thuật khẩn cấp."
+  },
+  {
+    "question": "Triệu chứng của viêm ruột thừa?",
+    "answer": "Bạn muốn biết triệu chứng của viêm ruột thừa? Các dấu hiệu gồm đau bụng dưới bên phải, sốt, buồn nôn, và không muốn ăn. Cần đi khám ngay."
+  },
+  {
+    "question": "Cách sơ cứu khi bị sốc phản vệ?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị sốc phản vệ? Đặt nạn nhân nằm ngửa, nâng chân cao, gọi cấp cứu ngay, và tiêm epinephrine nếu có sẵn."
+  },
+  {
+    "question": "Bệnh cúm dạ dày là gì?",
+    "answer": "Bạn hỏi bệnh cúm dạ dày là gì? Cúm dạ dày là viêm dạ dày ruột do virus, gây tiêu chảy, nôn mửa, đau bụng, và sốt nhẹ."
+  },
+  {
+    "question": "Cách chăm sóc khi bị cúm dạ dày?",
+    "answer": "Bạn muốn biết cách chăm sóc khi bị cúm dạ dày? Uống nhiều nước, bổ sung dung dịch bù điện giải, ăn nhẹ, và nghỉ ngơi. Đi khám nếu triệu chứng nặng."
+  },
+  {
+    "question": "Canxi có tác dụng gì?",
+    "answer": "Bạn hỏi canxi có tác dụng gì? Canxi giúp xương và răng chắc khỏe, hỗ trợ chức năng cơ bắp, thần kinh, và đông máu."
+  },
+  {
+    "question": "Thực phẩm giàu canxi là gì?",
+    "answer": "Bạn hỏi thực phẩm giàu canxi là gì? Sữa, phô mai, yogurt, rau xanh như cải kale, cá hồi, và hạt hạnh nhân là những nguồn canxi tốt."
+  },
+  {
+    "question": "Bệnh viêm âm đạo là gì?",
+    "answer": "Bạn hỏi bệnh viêm âm đạo là gì? Viêm âm đạo là tình trạng viêm ở âm đạo do vi khuẩn, nấm, hoặc ký sinh trùng, gây ngứa, tiết dịch, và khó chịu."
+  },
+  {
+    "question": "Cách phòng ngừa viêm âm đạo?",
+    "answer": "Bạn hỏi cách phòng ngừa viêm âm đạo? Giữ vệ sinh vùng kín, mặc quần áo thoáng khí, tránh thụt rửa, và đi khám phụ khoa định kỳ."
+  },
+  {
+    "question": "Cách sơ cứu khi bị kẹt tay vào cửa?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị kẹt tay vào cửa? Chườm lạnh để giảm sưng, kiểm tra xem có gãy xương không, và đi khám nếu đau hoặc sưng nhiều."
+  },
+  {
+    "question": "Bệnh bạch hầu là gì?",
+    "answer": "Bạn hỏi bệnh bạch hầu là gì? Bạch hầu là bệnh truyền nhiễm do vi khuẩn Corynebacterium, gây đau họng, sốt, và màng giả ở họng, có thể nguy hiểm."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh bạch hầu?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh bạch hầu? Tiêm vắc-xin DPT, giữ vệ sinh cá nhân, và tránh tiếp xúc với người bệnh."
+  },
+  {
+    "question": "Đau nhức xương khớp là dấu hiệu của gì?",
+    "answer": "Bạn hỏi đau nhức xương khớp là dấu hiệu của gì? Đau nhức xương khớp có thể do viêm khớp, thiếu vitamin D, hoặc hoạt động quá sức. Nếu kéo dài, cần đi khám."
+  },
+  {
+    "question": "Cách giảm đau nhức xương khớp tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau nhức xương khớp tại nhà? Chườm ấm, nghỉ ngơi, tập thể dục nhẹ, và bổ sung thực phẩm giàu omega-3 như cá hồi."
+  },
+  {
+    "question": "Bệnh uốn ván là gì?",
+    "answer": "Bạn hỏi bệnh uốn ván là gì? Uốn ván là bệnh do vi khuẩn Clostridium tetani, gây co cứng cơ, thường qua vết thương hở, có thể nguy hiểm đến tính mạng."
+  },
+  {
+    "question": "Cách phòng ngừa uốn ván?",
+    "answer": "Bạn hỏi cách phòng ngừa uốn ván? Tiêm vắc-xin uốn ván định kỳ, làm sạch vết thương ngay, và dùng băng gạc che vết thương hở."
+  },
+  {
+    "question": "Cách chăm sóc sức khỏe cho người bị tiểu đường thai kỳ?",
+    "answer": "Bạn hỏi cách chăm sóc sức khỏe cho người bị tiểu đường thai kỳ? Ăn uống lành mạnh, kiểm soát đường huyết, tập thể dục nhẹ, và theo dõi y tế thường xuyên."
+  },
+  {
+    "question": "Bệnh viêm gan A là gì?",
+    "answer": "Bạn hỏi bệnh viêm gan A là gì? Viêm gan A là bệnh do virus HAV, lây qua thực phẩm hoặc nước nhiễm bẩn, gây sốt, vàng da, và mệt mỏi."
+  },
+  {
+    "question": "Cách phòng ngừa viêm gan A?",
+    "answer": "Bạn hỏi cách phòng ngừa viêm gan A? Tiêm vắc-xin viêm gan A, rửa tay trước khi ăn, nấu chín thực phẩm, và uống nước sạch."
+  },
+  {
+    "question": "Cách sơ cứu khi bị ngộ độc thực phẩm?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị ngộ độc thực phẩm? Cho nạn nhân uống nhiều nước, không gây nôn, và đưa đến bệnh viện ngay nếu có dấu hiệu nặng như nôn mửa liên tục."
+  },
+  {
+    "question": "Bệnh viêm khớp dạng thấp là gì?",
+    "answer": "Bạn hỏi bệnh viêm khớp dạng thấp là gì? Viêm khớp dạng thấp là bệnh tự miễn gây viêm, đau, và sưng khớp, thường ở tay và chân, có thể làm tổn thương khớp lâu dài."
+  },
+  {
+    "question": "Viêm bàng quang là gì?",
+    "answer": "Bạn hỏi viêm bàng quang là gì? Viêm bàng quang là tình trạng viêm ở bàng quang, thường do vi khuẩn, gây tiểu buốt, tiểu gấp, và đau bụng dưới."
+  },
+  {
+    "question": "Cách phòng ngừa viêm bàng quang?",
+    "answer": "Bạn hỏi cách phòng ngừa viêm bàng quang? Uống nhiều nước, đi tiểu thường xuyên, vệ sinh sạch sẽ sau khi đi vệ sinh, và tránh giữ nước tiểu quá lâu."
+  },
+  {
+    "question": "Đau cổ tay là dấu hiệu của bệnh gì?",
+    "answer": "Bạn hỏi đau cổ tay là dấu hiệu của bệnh gì? Đau cổ tay có thể do hội chứng ống cổ tay, viêm gân, hoặc chấn thương. Nếu đau kéo dài, nên đi khám."
+  },
+  {
+    "question": "Cách giảm đau cổ tay tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau cổ tay tại nhà? Nghỉ ngơi, chườm lạnh, đeo nẹp cổ tay, và tập các bài tập giãn cơ nhẹ nhàng."
+  },
+  {
+    "question": "Bệnh chàm là gì?",
+    "answer": "Bạn hỏi bệnh chàm là gì? Bệnh chàm, hay eczema, là tình trạng da viêm mãn tính, gây ngứa, đỏ, và khô da, thường liên quan đến dị ứng hoặc di truyền."
+  },
+  {
+    "question": "Cách chăm sóc da khi bị chàm?",
+    "answer": "Bạn muốn biết cách chăm sóc da khi bị chàm? Dùng kem dưỡng ẩm không mùi, tránh xà phòng mạnh, mặc quần áo cotton, và dùng thuốc theo chỉ định bác sĩ."
+  },
+  {
+    "question": "Trào ngược dạ dày là gì?",
+    "answer": "Bạn hỏi trào ngược dạ dày là gì? Trào ngược dạ dày là tình trạng axit dạ dày trào ngược lên thực quản, gây ợ nóng, đau ngực, và khó chịu."
+  },
+  {
+    "question": "Cách giảm trào ngược dạ dày?",
+    "answer": "Bạn muốn biết cách giảm trào ngược dạ dày? Ăn bữa nhỏ, tránh đồ cay và béo, không nằm ngay sau ăn, và nâng cao đầu khi ngủ."
+  },
+  {
+    "question": "Bệnh ho gà là gì?",
+    "answer": "Bạn hỏi bệnh ho gà là gì? Ho gà là bệnh truyền nhiễm do vi khuẩn Bordetella pertussis, gây ho dữ dội, khó thở, và có thể nguy hiểm cho trẻ nhỏ."
+  },
+  {
+    "question": "Cách phòng ngừa ho gà?",
+    "answer": "Bạn hỏi cách phòng ngừa ho gà? Tiêm vắc-xin DPT, giữ vệ sinh cá nhân, và tránh tiếp xúc với người bệnh."
+  },
+  {
+    "question": "Cách sơ cứu khi bị bỏng hóa chất?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị bỏng hóa chất? Rửa vùng bỏng dưới nước sạch 15-20 phút, loại bỏ quần áo dính hóa chất, và đưa đến bệnh viện ngay."
+  },
+  {
+    "question": "Bệnh vảy nến là gì?",
+    "answer": "Bạn hỏi bệnh vảy nến là gì? Vảy nến là bệnh tự miễn gây da đỏ, bong tróc, và ngứa, thường xuất hiện ở khuỷu tay, đầu gối, hoặc da đầu."
+  },
+  {
+    "question": "Cách chăm sóc da khi bị vảy nến?",
+    "answer": "Bạn muốn biết cách chăm sóc da khi bị vảy nến? Dùng kem dưỡng ẩm, tránh cào gãi, tắm nước ấm, và dùng thuốc theo chỉ định bác sĩ."
+  },
+  {
+    "question": "Hội chứng khô mắt là gì?",
+    "answer": "Bạn hỏi hội chứng khô mắt là gì? Khô mắt là tình trạng mắt thiếu nước mắt, gây ngứa, đỏ, và cảm giác cộm, thường do làm việc lâu với màn hình."
+  },
+  {
+    "question": "Cách giảm khô mắt tại nhà?",
+    "answer": "Bạn muốn biết cách giảm khô mắt tại nhà? Nhỏ nước mắt nhân tạo, nghỉ mắt thường xuyên, chớp mắt nhiều, và giữ độ ẩm trong phòng."
+  },
+  {
+    "question": "Bệnh thương hàn là gì?",
+    "answer": "Bạn hỏi bệnh thương hàn là gì? Thương hàn là bệnh truyền nhiễm do vi khuẩn Salmonella typhi, gây sốt cao, đau bụng, và mệt mỏi, lây qua thực phẩm nhiễm bẩn."
+  },
+  {
+    "question": "Cách phòng ngừa thương hàn?",
+    "answer": "Bạn hỏi cách phòng ngừa thương hàn? Tiêm vắc-xin thương hàn, ăn thực phẩm nấu chín, uống nước sạch, và rửa tay trước khi ăn."
+  },
+  {
+    "question": "Đau gót chân là dấu hiệu của bệnh gì?",
+    "answer": "Bạn hỏi đau gót chân là dấu hiệu của bệnh gì? Đau gót chân có thể do viêm cân gan chân, gai gót chân, hoặc đi giày không phù hợp. Nếu kéo dài, nên đi khám."
+  },
+  {
+    "question": "Cách giảm đau gót chân tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau gót chân tại nhà? Nghỉ ngơi, chườm lạnh, tập bài tập kéo giãn gân Achilles, và mang giày có đệm hỗ trợ."
+  },
+  {
+    "question": "Cách sơ cứu khi bị côn trùng cắn?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị côn trùng cắn? Rửa sạch vết cắn, chườm lạnh để giảm sưng, bôi kem chống ngứa, và đi khám nếu có dấu hiệu dị ứng nặng."
+  },
+  {
+    "question": "Bệnh viêm gan C là gì?",
+    "answer": "Bạn hỏi bệnh viêm gan C là gì? Viêm gan C là bệnh do virus HCV, ảnh hưởng đến gan, có thể gây viêm gan mãn tính hoặc xơ gan, lây qua máu."
+  },
+  {
+    "question": "Cách phòng ngừa viêm gan C?",
+    "answer": "Bạn hỏi cách phòng ngừa viêm gan C? Tránh dùng chung kim tiêm, đảm bảo dụng cụ y tế vô trùng, và sử dụng biện pháp bảo vệ khi quan hệ tình dục."
+  },
+  {
+    "question": "Hội chứng mệt mỏi mãn tính là gì?",
+    "answer": "Bạn hỏi hội chứng mệt mỏi mãn tính là gì? Hội chứng mệt mỏi mãn tính là tình trạng mệt mỏi kéo dài không rõ nguyên nhân, kèm đau cơ và khó tập trung."
+  },
+  {
+    "question": "Cách cải thiện hội chứng mệt mỏi mãn tính?",
+    "answer": "Bạn muốn biết cách cải thiện hội chứng mệt mỏi mãn tính? Nghỉ ngơi hợp lý, tập thể dục nhẹ, ăn uống cân bằng, và tham khảo ý kiến bác sĩ."
+  },
+  {
+    "question": "Cách chăm sóc răng miệng cho trẻ em?",
+    "answer": "Bạn hỏi cách chăm sóc răng miệng cho trẻ em? Hướng dẫn trẻ đánh răng 2 lần/ngày, dùng kem đánh răng có fluoride, hạn chế đồ ngọt, và đưa trẻ đi nha sĩ định kỳ."
+  },
+  {
+    "question": "Bệnh sốt rét là gì?",
+    "answer": "Bạn hỏi bệnh sốt rét là gì? Sốt rét là bệnh do ký sinh trùng Plasmodium, lây qua muỗi Anopheles, gây sốt, ớn lạnh, và mệt mỏi."
+  },
+  {
+    "question": "Cách phòng ngừa sốt rét?",
+    "answer": "Bạn hỏi cách phòng ngừa sốt rét? Ngủ màn chống muỗi, dùng thuốc xịt muỗi, mặc áo dài ở vùng nguy cơ cao, và dùng thuốc dự phòng nếu cần."
+  },
+  {
+    "question": "Cách sơ cứu khi bị bong gân?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị bong gân? Nghỉ ngơi, chườm lạnh, băng ép nhẹ, và nâng cao vùng bị bong gân. Đi khám nếu đau hoặc sưng nhiều."
+  },
+  {
+    "question": "Bệnh viêm đại tràng là gì?",
+    "answer": "Bạn hỏi bệnh viêm đại tràng là gì? Viêm đại tràng là tình trạng viêm ở niêm mạc đại tràng, gây đau bụng, tiêu chảy, và đôi khi có máu trong phân."
+  },
+  {
+    "question": "Cách chăm sóc khi bị viêm đại tràng?",
+    "answer": "Bạn muốn biết cách chăm sóc khi bị viêm đại tràng? Ăn thực phẩm dễ tiêu, tránh đồ chiên rán, uống đủ nước, và dùng thuốc theo chỉ định bác sĩ."
+  },
+  {
+    "question": "Viêm amidan là gì?",
+    "answer": "Bạn hỏi viêm amidan là gì? Viêm amidan là tình trạng viêm ở amidan, thường do vi khuẩn hoặc virus, gây đau họng, khó nuốt, và sốt."
+  },
+  {
+    "question": "Cách chăm sóc khi bị viêm amidan?",
+    "answer": "Bạn muốn biết cách chăm sóc khi bị viêm amidan? Súc miệng nước muối, uống nước ấm, nghỉ ngơi, và dùng thuốc theo chỉ định bác sĩ. Nếu tái phát nhiều, nên đi khám."
+  },
+  {
+    "question": "Đau thần kinh tọa là gì?",
+    "answer": "Bạn hỏi đau thần kinh tọa là gì? Đau thần kinh tọa là tình trạng đau lan từ thắt lưng xuống chân do dây thần kinh tọa bị chèn ép, thường liên quan đến thoát vị đĩa đệm."
+  },
+  {
+    "question": "Cách giảm đau thần kinh tọa tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau thần kinh tọa tại nhà? Chườm ấm, tập các bài tập giãn cơ, tránh ngồi lâu, và dùng thuốc giảm đau nếu bác sĩ chỉ định."
+  },
+  {
+    "question": "Bệnh giang mai là gì?",
+    "answer": "Bạn hỏi bệnh giang mai là gì? Giang mai là bệnh lây truyền qua đường tình dục do vi khuẩn Treponema pallidum, gây loét, phát ban, và có thể ảnh hưởng nội tạng nếu không điều trị."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh giang mai?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh giang mai? Sử dụng bao cao su, quan hệ tình dục an toàn, kiểm tra sức khỏe định kỳ, và tránh tiếp xúc với người bệnh."
+  },
+  {
+    "question": "Rối loạn nhịp tim là gì?",
+    "answer": "Bạn hỏi rối loạn nhịp tim là gì? Rối loạn nhịp tim là tình trạng tim đập quá nhanh, quá chậm, hoặc không đều, có thể gây chóng mặt hoặc ngất."
+  },
+  {
+    "question": "Cách phòng ngừa rối loạn nhịp tim?",
+    "answer": "Bạn hỏi cách phòng ngừa rối loạn nhịp tim? Tránh stress, hạn chế caffeine, không hút thuốc, tập thể dục đều đặn, và kiểm tra tim mạch định kỳ."
+  },
+  {
+    "question": "Cách sơ cứu khi bị co giật do sốt cao?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị co giật do sốt cao? Đặt nạn nhân nằm nghiêng, không giữ chặt, đảm bảo thoáng khí, và gọi cấp cứu ngay sau khi co giật dừng."
+  },
+  {
+    "question": "Bệnh lậu là gì?",
+    "answer": "Bạn hỏi bệnh lậu là gì? Lậu là bệnh lây truyền qua đường tình dục do vi khuẩn Neisseria gonorrhoeae, gây tiểu buốt, tiết dịch bất thường, và đau vùng chậu."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh lậu?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh lậu? Dùng bao cao su, quan hệ tình dục an toàn, và đi khám ngay nếu có triệu chứng bất thường ở vùng sinh dục."
+  },
+  {
+    "question": "Hội chứng vai gáy là gì?",
+    "answer": "Bạn hỏi hội chứng vai gáy là gì? Hội chứng vai gáy là tình trạng đau và cứng ở vùng vai, cổ, do căng cơ, tư thế sai, hoặc làm việc lâu với máy tính."
+  },
+  {
+    "question": "Cách giảm hội chứng vai gáy?",
+    "answer": "Bạn muốn biết cách giảm hội chứng vai gáy? Tập các bài tập giãn cơ, chườm ấm, cải thiện tư thế làm việc, và nghỉ ngơi khi mệt mỏi."
+  },
+  {
+    "question": "Bệnh viêm màng não là gì?",
+    "answer": "Bạn hỏi bệnh viêm màng não là gì? Viêm màng não là tình trạng viêm ở màng bao quanh não và tủy sống, do vi khuẩn hoặc virus, gây sốt, đau đầu, và cứng cổ."
+  },
+  {
+    "question": "Cách phòng ngừa viêm màng não?",
+    "answer": "Bạn hỏi cách phòng ngừa viêm màng não? Tiêm vắc-xin phòng bệnh, giữ vệ sinh cá nhân, tránh tiếp xúc với người bệnh, và đi khám sớm nếu có triệu chứng."
+  },
+  {
+    "question": "Kẽm có tác dụng gì?",
+    "answer": "Bạn hỏi kẽm có tác dụng gì? Kẽm hỗ trợ hệ miễn dịch, giúp lành vết thương, duy trì vị giác và khứu giác, và cần thiết cho sự phát triển ở trẻ em."
+  },
+  {
+    "question": "Thực phẩm giàu kẽm là gì?",
+    "answer": "Bạn hỏi thực phẩm giàu kẽm là gì? Hàu, thịt bò, hạt bí, đậu, và các loại hạt như hạt điều là những nguồn kẽm dồi dào."
+  },
+  {
+    "question": "Bệnh herpes sinh dục là gì?",
+    "answer": "Bạn hỏi bệnh herpes sinh dục là gì? Herpes sinh dục là bệnh do virus HSV, gây mụn nước, loét, và đau ở vùng sinh dục, lây qua đường tình dục."
+  },
+  {
+    "question": "Cách phòng ngừa herpes sinh dục?",
+    "answer": "Bạn hỏi cách phòng ngừa herpes sinh dục? Dùng bao cao su, quan hệ tình dục an toàn, tránh tiếp xúc với vết loét, và kiểm tra sức khỏe định kỳ."
+  },
+  {
+    "question": "Cách sơ cứu khi bị sặc nước?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị sặc nước? Đặt nạn nhân nằm nghiêng, vỗ nhẹ lưng, đảm bảo đường thở thông thoáng, và gọi cấp cứu nếu nạn nhân khó thở."
+  },
+  {
+    "question": "Bệnh viêm phổi là gì?",
+    "answer": "Bạn hỏi bệnh viêm phổi là gì? Viêm phổi là tình trạng viêm ở phổi do vi khuẩn, virus, hoặc nấm, gây sốt, ho có đờm, và khó thở."
+  },
+  {
+    "question": "Cách phòng ngừa viêm phổi?",
+    "answer": "Bạn hỏi cách phòng ngừa viêm phổi? Tiêm vắc-xin phế cầu, giữ ấm cơ thể, tránh khói bụi, và rửa tay thường xuyên để ngăn nhiễm trùng."
+  },
+  {
+    "question": "Đau bụng kinh là gì?",
+    "answer": "Bạn hỏi đau bụng kinh là gì? Đau bụng kinh là cơn đau ở bụng dưới hoặc lưng dưới trong kỳ kinh nguyệt, do co bóp tử cung, thường gặp ở phụ nữ."
+  },
+  {
+    "question": "Cách giảm đau bụng kinh tại nhà?",
+    "answer": "Bạn muốn biết cách giảm đau bụng kinh tại nhà? Chườm ấm bụng, uống trà gừng, tập yoga nhẹ, và dùng thuốc giảm đau nếu cần, theo chỉ định bác sĩ."
+  },
+  {
+    "question": "Bệnh viêm loét dạ dày là gì?",
+    "answer": "Bạn hỏi bệnh viêm loét dạ dày là gì? Viêm loét dạ dày là tình trạng có vết loét ở niêm mạc dạ dày, gây đau bụng, ợ chua, và đầy hơi."
+  },
+  {
+    "question": "Cách chăm sóc khi bị viêm loét dạ dày?",
+    "answer": "Bạn muốn biết cách chăm sóc khi bị viêm loét dạ dày? Ăn bữa nhỏ, tránh đồ chua và cay, giảm stress, và dùng thuốc theo chỉ định bác sĩ."
+  },
+  {
+    "question": "Cách phòng ngừa bệnh cúm ở trẻ em?",
+    "answer": "Bạn hỏi cách phòng ngừa bệnh cúm ở trẻ em? Tiêm vắc-xin cúm, rửa tay thường xuyên, giữ trẻ tránh xa người bệnh, và bổ sung thực phẩm giàu vitamin C."
+  },
+  {
+    "question": "Bệnh viêm kết mạc dị ứng là gì?",
+    "answer": "Bạn hỏi bệnh viêm kết mạc dị ứng là gì? Viêm kết mạc dị ứng là tình trạng viêm ở mắt do dị ứng, gây ngứa, đỏ mắt, và chảy nước mắt."
+  },
+  {
+    "question": "Cách chăm sóc khi bị viêm kết mạc dị ứng?",
+    "answer": "Bạn muốn biết cách chăm sóc khi bị viêm kết mạc dị ứng? Rửa mắt bằng nước muối sinh lý, tránh dụi mắt, dùng thuốc nhỏ mắt theo chỉ định, và tránh tác nhân dị ứng."
+  },
+  {
+    "question": "Cách sơ cứu khi bị vết cắt sâu?",
+    "answer": "Bạn hỏi cách sơ cứu khi bị vết cắt sâu? Rửa vết cắt dưới nước sạch, ép chặt để cầm máu, băng gạc vô trùng, và đi khám ngay để khâu nếu cần."
+  }
+]

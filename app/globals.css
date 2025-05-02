@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Các kiểu CSS cơ bản cho giao diện tối */
+:root {
+  color-scheme: dark;
+}
+
+html {
+  background-color: #111827;
+  color: #f3f4f6;
+}
+
+body {
+  background-color: #111827;
+  color: #f3f4f6;
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+
+/* Fix iOS height */
+html, body {
+  height: 100%;
+}
+
+/* Đảm bảo không bị khuất trên mobile */
+@supports (-webkit-touch-callout: none) {
+  .min-h-screen {
+    min-height: -webkit-fill-available;
+  }
+}
+
+/* Styles cho input, textarea */
+input, textarea, select {
+  background-color: #1f2937 !important;
+  border-color: #374151 !important;
+  color: #f3f4f6 !important;
+}
+
+/* Ngăn zoom trên iOS */
+@media (max-width: 768px) {
+  input, textarea, select, button {
+    font-size: 16px !important;
+  }
+}
+
+/* Ẩn scrollbar nhưng vẫn cho phép cuộn */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+} 
